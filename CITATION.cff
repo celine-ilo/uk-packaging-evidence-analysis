@@ -22,6 +22,8 @@ authors:
     # orcid: "https://orcid.org/0000-0000-0000-0000"   <- add yours here
 type: dataset
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24207742"
+repository-code: "https://github.com/celine-ilo/uk-packaging-evidence-analysis"
 date-released: 2026-11-13
 keywords:
   - extended producer responsibility
