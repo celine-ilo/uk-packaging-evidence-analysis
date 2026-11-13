@@ -1,0 +1,22 @@
+{
+  "title": "UK Packaging Recovery Evidence, 2023 to 2026: What the published data shows, and what it cannot",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    { "name": "Ilo, Celine Ozioma", "affiliation": "Nova Cyclos" }
+  ],
+  "description": "<p>An analysis of seven public UK datasets covering packaging producer responsibility: recovery evidence (PRN and PERN), the register of obligated producers, placed-on-market returns under the packaging Extended Producer Responsibility regulations, and evidence revenue.</p><p>Each dataset was prepared from its raw published files with explicit cleaning rules and a validation log: 21 prepared files, 19,023 rows and 1,111 validation checks.</p><p>Four findings are reported. Half of evidenced recycling is discharged by export, and the split by material tracks the price of evidence rather than any policy instrument, which varies by a factor of 584 between materials. Agreed protocols mean a credited tonne can represent as little as 0.6 per cent packaging content. The share of evidence issued after the compliance year has closed rose from 9.6 to 14.5 per cent between 2023 and 2025. Published totals rest on returns that were outstanding at the point of publication, concentrated in Q4 and in plastic export.</p><p>The repository contains the full report, seven figures with per-figure notes recording what each does and does not support, and seven self-contained data preparation packages that reproduce every number from the raw published files.</p>",
+  "keywords": [
+    "extended producer responsibility",
+    "packaging waste",
+    "circular economy",
+    "PRN",
+    "PERN",
+    "environmental policy",
+    "data validation",
+    "United Kingdom"
+  ],
+  "language": "eng"
+}

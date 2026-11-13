@@ -115,6 +115,26 @@ All seven datasets are published by Defra, the Environment Agency, the National 
 
 Regulatory dates were checked against the Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 on legislation.gov.uk, regulation 1(2) and (3), and against PackUK's annual report for 1 April 2025 to 31 March 2026.
 
-## Licence
+## Licence and citation
 
-Code and analysis released under the MIT Licence. The underlying datasets remain subject to the terms of their original publishers, which for most UK government data is the Open Government Licence v3.0.
+Two licences, because this repository holds two kinds of work.
+
+The report, figures, notes and cleaning rules are released under
+**Creative Commons Attribution 4.0 (CC BY 4.0)**. You may use them, including
+commercially, provided you give credit.
+
+The scripts are released under the **MIT Licence**.
+
+The raw files under `data/*/raw/` are published by UK public bodies and remain
+subject to their original terms, which for most UK government data is the
+Open Government Licence v3.0.
+
+See `LICENSE` for the full statement.
+
+**To cite this work:**
+
+> Ilo, C.O. (2026) *UK Packaging Recovery Evidence, 2023 to 2026: What the
+> published data shows, and what it cannot.* Nova Cyclos.
+
+A `CITATION.cff` file is included, so GitHub will generate a formatted
+citation from the "Cite this repository" button on the repository page.
