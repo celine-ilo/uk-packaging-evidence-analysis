@@ -1,0 +1,62 @@
+rule_id,source_column,match_type,find,target_column,replace,category,rows_affected
+R001,*,trim,,*,,1-error-fix,193
+R002,Required to pay disposal fee,exact,YES,disposal_fee_clean,Yes,1-error-fix,51
+R003,Required to pay disposal fee,exact,yes,disposal_fee_clean,Yes,1-error-fix,23
+R004,Required to pay disposal fee,exact,Y,disposal_fee_clean,Yes,1-error-fix,3
+R005,Required to pay disposal fee,exact,NO,disposal_fee_clean,No,1-error-fix,47
+R006,Required to pay disposal fee,exact,no,disposal_fee_clean,No,1-error-fix,29
+R007,Required to pay disposal fee,exact,Np,disposal_fee_clean,No,1-error-fix,1
+R008,Required to pay disposal fee,exact,Yes,disposal_fee_clean,Yes,1-error-fix,4792
+R009,Required to pay disposal fee,exact,No,disposal_fee_clean,No,1-error-fix,7110
+R010,Required to pay disposal fee,blank,,disposal_fee_clean,Not stated,2-standardise,22
+R011,Country,exact,England,uk_nation,England,1-error-fix,9315
+R012,Country,exact,ENGLAND,uk_nation,England,1-error-fix,32
+R013,Country,exact,england,uk_nation,England,1-error-fix,1
+R014,Country,exact,EN,uk_nation,England,1-error-fix,82
+R015,Country,exact,Scotland,uk_nation,Scotland,1-error-fix,450
+R016,Country,exact,SCOTLAND,uk_nation,Scotland,1-error-fix,6
+R017,Country,exact,SC,uk_nation,Scotland,1-error-fix,22
+R018,Country,exact,Wales,uk_nation,Wales,1-error-fix,304
+R019,Country,exact,WALES,uk_nation,Wales,1-error-fix,1
+R020,Country,exact,WS,uk_nation,Wales,1-error-fix,3
+R021,Country,exact,Northern Ireland,uk_nation,Northern Ireland,1-error-fix,282
+R022,Country,exact,NORTHERN IRELAND,uk_nation,Northern Ireland,1-error-fix,2
+R023,Country,exact,Northern_Ireland,uk_nation,Northern Ireland,1-error-fix,1
+R024,Country,exact,Norther Ireland,uk_nation,Northern Ireland,1-error-fix,1
+R025,Country,exact,NI,uk_nation,Northern Ireland,1-error-fix,37
+R026,Country,exact,United Kingdom,uk_nation,Not stated,2-standardise,1333
+R027,Country,exact,UNITED KINGDOM,uk_nation,Not stated,2-standardise,8
+R028,Country,exact,united kingdom,uk_nation,Not stated,2-standardise,1
+R029,Country,exact,United Kingdeom,uk_nation,Not stated,2-standardise,3
+R030,Country,exact,United Kingdon,uk_nation,Not stated,2-standardise,1
+R031,Country,exact,UK,uk_nation,Not stated,2-standardise,125
+R032,Country,exact,GB,uk_nation,Not stated,2-standardise,2
+R033,Country,exact,Other,uk_nation,Not stated,2-standardise,6
+R034,Country,exact,Shropshire,uk_nation,England,2-standardise,1
+R035,Country,blank,,uk_nation,Not stated,2-standardise,36
+R036,Country,exact,The Netherlands,uk_nation,Outside UK,1-error-fix,4
+R037,Country,exact,Netherlands,uk_nation,Outside UK,1-error-fix,3
+R038,Country,exact,Ireland,uk_nation,Outside UK,1-error-fix,3
+R039,Country,exact,Republic of Ireland,uk_nation,Outside UK,1-error-fix,1
+R040,Country,exact,Germany,uk_nation,Outside UK,1-error-fix,2
+R041,Country,exact,Denmark,uk_nation,Outside UK,1-error-fix,2
+R042,Country,exact,Switzerland,uk_nation,Outside UK,1-error-fix,1
+R043,Country,exact,Austria,uk_nation,Outside UK,1-error-fix,1
+R044,Country,exact,Italy,uk_nation,Outside UK,1-error-fix,1
+R045,Country,exact,France,uk_nation,Outside UK,1-error-fix,1
+R046,Country,exact,Guernsey,uk_nation,Outside UK,1-error-fix,1
+R047,Country,exact,United States of America,uk_nation,Outside UK,1-error-fix,1
+R048,Country,exact,United States,uk_nation,Outside UK,1-error-fix,1
+R049,Country,exact,Canada,uk_nation,Outside UK,1-error-fix,1
+R050,Large/Small,exact,L,size_label,Large,1-error-fix,11239
+R051,Large/Small,exact,S,size_label,Small,1-error-fix,839
+R052,Name of compliance scheme,blank,,registration_route,Direct registrant,2-standardise,1964
+R053,Name of compliance scheme,not_blank,,registration_route,Compliance scheme,2-standardise,10114
+R054,Subsidiary ID,blank,,registration_level,Parent,2-standardise,7931
+R055,Subsidiary ID,not_blank,,registration_level,Subsidiary,2-standardise,4147
+R056,Cancellation date,blank,,is_cancelled,No,2-standardise,12064
+R057,Cancellation date,not_blank,,is_cancelled,Yes,2-standardise,14
+R058,Has the producer complied with their recycling obligations in accordance with Regulation 40?,blank,,Has the producer complied with their recycling obligations in accordance with Regulation 40?,,3-reported-not-fixed,0
+R059,Has the producer submitted a certificate of compliance in accordance with Regulation 41?,blank,,Has the producer submitted a certificate of compliance in accordance with Regulation 41?,,3-reported-not-fixed,0
+R060,Companies House number,blank,,Companies House number,,3-reported-not-fixed,0
+R061,Organisation ID,note,,Organisation ID,,3-reported-not-fixed,0

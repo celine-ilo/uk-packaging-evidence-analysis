@@ -1,0 +1,1072 @@
+month,stream,material,measure,value,unit,source_file,material_canonical,is_provisional
+2026-01,Reprocessor,Aluminium,Tonnage received for recycling,4682.45,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Reprocessor,Aluminium,Tonnage recycled,4154.91,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Reprocessor,Aluminium,Tonnage received but unrecycled,1536.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Reprocessor,Aluminium,"Tonnage sent on, total",76.06,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Reprocessor,Aluminium,Tonnage sent on to a reprocessor,76.06,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Reprocessor,Aluminium,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Reprocessor,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Reprocessor,Glass-other,Tonnage received for recycling,18885.45,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Reprocessor,Glass-other,Tonnage recycled,17087.3,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Reprocessor,Glass-other,Tonnage received but unrecycled,3817.68,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Reprocessor,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Reprocessor,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Reprocessor,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Reprocessor,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Reprocessor,Glass re-melt,Tonnage received for recycling,148032.39,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Reprocessor,Glass re-melt,Tonnage recycled,122355.96,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Reprocessor,Glass re-melt,Tonnage received but unrecycled,30715.14,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Reprocessor,Glass re-melt,"Tonnage sent on, total",1841.2,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Reprocessor,Glass re-melt,Tonnage sent on to a reprocessor,1157.5,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Reprocessor,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Reprocessor,Glass re-melt,Tonnage sent on to other facilities,683.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Reprocessor,Paper and board,Tonnage received for recycling,82626.85,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Reprocessor,Paper and board,Tonnage recycled,89121.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Reprocessor,Paper and board,Tonnage received but unrecycled,64.05,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Reprocessor,Paper and board,"Tonnage sent on, total",82.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Reprocessor,Paper and board,Tonnage sent on to a reprocessor,82.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Reprocessor,Paper and board,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Reprocessor,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Reprocessor,Plastic,Tonnage received for recycling,43895.47,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Reprocessor,Plastic,Tonnage recycled,40750.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Reprocessor,Plastic,Tonnage received but unrecycled,14967.51,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Reprocessor,Plastic,"Tonnage sent on, total",7695.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Reprocessor,Plastic,Tonnage sent on to a reprocessor,6097.32,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Reprocessor,Plastic,Tonnage sent on to an exporter,1120.83,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Reprocessor,Plastic,Tonnage sent on to other facilities,477.33,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Reprocessor,Steel,Tonnage received for recycling,5002.69,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Reprocessor,Steel,Tonnage recycled,4443.09,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Reprocessor,Steel,Tonnage received but unrecycled,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Reprocessor,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Reprocessor,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Reprocessor,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Reprocessor,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Reprocessor,Wood,Tonnage received for recycling,37895.47,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Reprocessor,Wood,Tonnage recycled,39268.11,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Reprocessor,Wood,Tonnage received but unrecycled,2422.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Reprocessor,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Reprocessor,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Reprocessor,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Reprocessor,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Aluminium,Tonnage received for exporting,9137.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Aluminium,Tonnage exported for recycling,8272.03,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Aluminium,Tonnage received but unexported,1604.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Aluminium,"Tonnage sent on, total",1768.37,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Aluminium,Tonnage sent on to a reprocessor,1237.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Aluminium,Tonnage sent on to an exporter,530.82,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Aluminium,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Aluminium,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Aluminium,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-01,Exporter,Glass-other,Tonnage received for exporting,9.46,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass-other,Tonnage exported for recycling,9.46,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass-other,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass-other,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass-other,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass-other,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-01,Exporter,Glass re-melt,Tonnage received for exporting,21539.86,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Glass re-melt,Tonnage exported for recycling,17866.66,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Glass re-melt,Tonnage received but unexported,17430.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Glass re-melt,"Tonnage sent on, total",15.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Glass re-melt,Tonnage sent on to a reprocessor,15.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Glass re-melt,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Glass re-melt,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Glass re-melt,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Glass re-melt,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-01,Exporter,Paper and board,Tonnage received for exporting,298949.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Paper and board,Tonnage exported for recycling,269462.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Paper and board,Tonnage received but unexported,31716.86,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Paper and board,"Tonnage sent on, total",13827.24,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Paper and board,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Paper and board,Tonnage sent on to an exporter,13827.24,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Paper and board,Tonnage exported that was stopped,23.76,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Paper and board,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Paper and board,Tonnage repatriated,23.76,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-01,Exporter,Plastic,Tonnage received for exporting,36924.6,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Plastic,Tonnage exported for recycling,34418.77,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Plastic,Tonnage received but unexported,2340.14,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Plastic,"Tonnage sent on, total",7733.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Plastic,Tonnage sent on to a reprocessor,1812.43,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Plastic,Tonnage sent on to an exporter,4714.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Plastic,Tonnage sent on to other facilities,1206.72,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Plastic,Tonnage exported that was stopped,123.15,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Plastic,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Plastic,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-01,Exporter,Steel,Tonnage received for exporting,9564.87,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Steel,Tonnage exported for recycling,9179.19,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Steel,Tonnage received but unexported,1010.61,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Steel,"Tonnage sent on, total",539.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Steel,Tonnage sent on to a reprocessor,539.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Steel,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Steel,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Steel,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-01,Exporter,Wood,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Wood,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Wood,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Wood,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Wood,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-01,Exporter,Wood,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Reprocessor,Aluminium,Tonnage received for recycling,5022.93,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Reprocessor,Aluminium,Tonnage recycled,4966.94,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Reprocessor,Aluminium,Tonnage received but unrecycled,1380.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Reprocessor,Aluminium,"Tonnage sent on, total",24.56,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Reprocessor,Aluminium,Tonnage sent on to a reprocessor,24.56,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Reprocessor,Aluminium,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Reprocessor,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Reprocessor,Glass-other,Tonnage received for recycling,16996.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Reprocessor,Glass-other,Tonnage recycled,17914.49,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Reprocessor,Glass-other,Tonnage received but unrecycled,2569.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Reprocessor,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Reprocessor,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Reprocessor,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Reprocessor,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Reprocessor,Glass re-melt,Tonnage received for recycling,98904.83,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Reprocessor,Glass re-melt,Tonnage recycled,103414.05,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Reprocessor,Glass re-melt,Tonnage received but unrecycled,22675.03,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Reprocessor,Glass re-melt,"Tonnage sent on, total",1158.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Reprocessor,Glass re-melt,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Reprocessor,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Reprocessor,Glass re-melt,Tonnage sent on to other facilities,1158.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Reprocessor,Paper and board,Tonnage received for recycling,82107.46,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Reprocessor,Paper and board,Tonnage recycled,89355.76,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Reprocessor,Paper and board,Tonnage received but unrecycled,1033.92,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Reprocessor,Paper and board,"Tonnage sent on, total",210.28,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Reprocessor,Paper and board,Tonnage sent on to a reprocessor,210.28,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Reprocessor,Paper and board,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Reprocessor,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Reprocessor,Plastic,Tonnage received for recycling,34755.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Reprocessor,Plastic,Tonnage recycled,32400.96,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Reprocessor,Plastic,Tonnage received but unrecycled,3711.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Reprocessor,Plastic,"Tonnage sent on, total",2392.3,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Reprocessor,Plastic,Tonnage sent on to a reprocessor,238.67,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Reprocessor,Plastic,Tonnage sent on to an exporter,1601.77,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Reprocessor,Plastic,Tonnage sent on to other facilities,551.86,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Reprocessor,Steel,Tonnage received for recycling,5732.41,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Reprocessor,Steel,Tonnage recycled,4961.11,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Reprocessor,Steel,Tonnage received but unrecycled,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Reprocessor,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Reprocessor,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Reprocessor,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Reprocessor,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Reprocessor,Wood,Tonnage received for recycling,40691.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Reprocessor,Wood,Tonnage recycled,38821.85,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Reprocessor,Wood,Tonnage received but unrecycled,3661.81,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Reprocessor,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Reprocessor,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Reprocessor,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Reprocessor,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Aluminium,Tonnage received for exporting,7335.27,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Aluminium,Tonnage exported for recycling,7484.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Aluminium,Tonnage received but unexported,981.17,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Aluminium,"Tonnage sent on, total",1367.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Aluminium,Tonnage sent on to a reprocessor,789.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Aluminium,Tonnage sent on to an exporter,551.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Aluminium,Tonnage sent on to other facilities,26.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Aluminium,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Aluminium,Tonnage exported that was refused,23.87,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Aluminium,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Exporter,Glass-other,Tonnage received for exporting,4.46,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass-other,Tonnage exported for recycling,4.46,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass-other,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass-other,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass-other,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass-other,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Exporter,Glass re-melt,Tonnage received for exporting,13120.39,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Glass re-melt,Tonnage exported for recycling,11486.89,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Glass re-melt,Tonnage received but unexported,11547.89,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Glass re-melt,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Glass re-melt,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Glass re-melt,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Glass re-melt,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Glass re-melt,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Glass re-melt,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Exporter,Paper and board,Tonnage received for exporting,239134.49,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Paper and board,Tonnage exported for recycling,233552.41,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Paper and board,Tonnage received but unexported,37398.01,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Paper and board,"Tonnage sent on, total",10857.94,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Paper and board,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Paper and board,Tonnage sent on to an exporter,10857.94,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Paper and board,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Paper and board,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Paper and board,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Exporter,Plastic,Tonnage received for exporting,46318.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Plastic,Tonnage exported for recycling,44330.16,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Plastic,Tonnage received but unexported,4096.72,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Plastic,"Tonnage sent on, total",6341.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Plastic,Tonnage sent on to a reprocessor,1201.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Plastic,Tonnage sent on to an exporter,4095.2,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Plastic,Tonnage sent on to other facilities,1045.16,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Plastic,Tonnage exported that was stopped,0.69,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Plastic,Tonnage exported that was refused,27.73,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Plastic,Tonnage repatriated,23.74,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Exporter,Steel,Tonnage received for exporting,22470.67,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Steel,Tonnage exported for recycling,23287.32,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Steel,Tonnage received but unexported,478.99,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Steel,"Tonnage sent on, total",4081.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Steel,Tonnage sent on to a reprocessor,4081.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Steel,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Steel,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Steel,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Exporter,Wood,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Wood,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Wood,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Wood,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Wood,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Exporter,Wood,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Reprocessor,Aluminium,Tonnage received for recycling,5371.83,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Reprocessor,Aluminium,Tonnage recycled,4667.67,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Reprocessor,Aluminium,Tonnage received but unrecycled,1947.22,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Reprocessor,Aluminium,"Tonnage sent on, total",47.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Reprocessor,Aluminium,Tonnage sent on to a reprocessor,47.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Reprocessor,Aluminium,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Reprocessor,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Reprocessor,Glass-other,Tonnage received for recycling,16966.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Reprocessor,Glass-other,Tonnage recycled,20044.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Reprocessor,Glass-other,Tonnage received but unrecycled,1859.96,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Reprocessor,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Reprocessor,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Reprocessor,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Reprocessor,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Reprocessor,Glass re-melt,Tonnage received for recycling,107084.83,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Reprocessor,Glass re-melt,Tonnage recycled,108646.2,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Reprocessor,Glass re-melt,Tonnage received but unrecycled,19237.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Reprocessor,Glass re-melt,"Tonnage sent on, total",2969.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Reprocessor,Glass re-melt,Tonnage sent on to a reprocessor,1450.96,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Reprocessor,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Reprocessor,Glass re-melt,Tonnage sent on to other facilities,1519.02,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Reprocessor,Paper and board,Tonnage received for recycling,100728.78,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Reprocessor,Paper and board,Tonnage recycled,106157.93,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Reprocessor,Paper and board,Tonnage received but unrecycled,1747.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Reprocessor,Paper and board,"Tonnage sent on, total",418.68,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Reprocessor,Paper and board,Tonnage sent on to a reprocessor,418.68,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Reprocessor,Paper and board,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Reprocessor,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Reprocessor,Plastic,Tonnage received for recycling,34960.67,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Reprocessor,Plastic,Tonnage recycled,33327.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Reprocessor,Plastic,Tonnage received but unrecycled,3300.56,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Reprocessor,Plastic,"Tonnage sent on, total",2117.91,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Reprocessor,Plastic,Tonnage sent on to a reprocessor,425.66,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Reprocessor,Plastic,Tonnage sent on to an exporter,1092.51,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Reprocessor,Plastic,Tonnage sent on to other facilities,599.74,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Reprocessor,Steel,Tonnage received for recycling,6878.87,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Reprocessor,Steel,Tonnage recycled,6341.49,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Reprocessor,Steel,Tonnage received but unrecycled,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Reprocessor,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Reprocessor,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Reprocessor,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Reprocessor,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Reprocessor,Wood,Tonnage received for recycling,44428.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Reprocessor,Wood,Tonnage recycled,42993.61,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Reprocessor,Wood,Tonnage received but unrecycled,4069.31,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Reprocessor,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Reprocessor,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Reprocessor,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Reprocessor,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Aluminium,Tonnage received for exporting,8433.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Aluminium,Tonnage exported for recycling,8062.33,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Aluminium,Tonnage received but unexported,1316.17,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Aluminium,"Tonnage sent on, total",1511.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Aluminium,Tonnage sent on to a reprocessor,546.2,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Aluminium,Tonnage sent on to an exporter,894.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Aluminium,Tonnage sent on to other facilities,71.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Aluminium,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Aluminium,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Aluminium,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Exporter,Glass-other,Tonnage received for exporting,19.1,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass-other,Tonnage exported for recycling,19.09,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass-other,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass-other,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass-other,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass-other,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Exporter,Glass re-melt,Tonnage received for exporting,16426.33,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Glass re-melt,Tonnage exported for recycling,23417.06,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Glass re-melt,Tonnage received but unexported,13578.81,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Glass re-melt,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Glass re-melt,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Glass re-melt,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Glass re-melt,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Glass re-melt,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Glass re-melt,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Exporter,Paper and board,Tonnage received for exporting,240678.59,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Paper and board,Tonnage exported for recycling,244389.77,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Paper and board,Tonnage received but unexported,34023.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Paper and board,"Tonnage sent on, total",10040.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Paper and board,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Paper and board,Tonnage sent on to an exporter,10040.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Paper and board,Tonnage exported that was stopped,7.23,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Paper and board,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Paper and board,Tonnage repatriated,7.23,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Exporter,Plastic,Tonnage received for exporting,60935.66,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Plastic,Tonnage exported for recycling,61400.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Plastic,Tonnage received but unexported,3257.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Plastic,"Tonnage sent on, total",6803.82,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Plastic,Tonnage sent on to a reprocessor,1206.3,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Plastic,Tonnage sent on to an exporter,4676.34,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Plastic,Tonnage sent on to other facilities,921.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Plastic,Tonnage exported that was stopped,22.74,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Plastic,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Plastic,Tonnage repatriated,22.74,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Exporter,Steel,Tonnage received for exporting,24142.74,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Steel,Tonnage exported for recycling,23516.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Steel,Tonnage received but unexported,1185.06,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Steel,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Steel,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Steel,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Exporter,Wood,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Wood,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Wood,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Wood,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Wood,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Exporter,Wood,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Reprocessor,Aluminium,Tonnage received for recycling,5001.43,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Reprocessor,Aluminium,Tonnage recycled,4777.63,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Reprocessor,Aluminium,Tonnage received but unrecycled,1849.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Reprocessor,Aluminium,"Tonnage sent on, total",201.42,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Reprocessor,Aluminium,Tonnage sent on to a reprocessor,201.42,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Reprocessor,Aluminium,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Reprocessor,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Reprocessor,Glass-other,Tonnage received for recycling,14091.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Reprocessor,Glass-other,Tonnage recycled,20106.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Reprocessor,Glass-other,Tonnage received but unrecycled,212.32,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Reprocessor,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Reprocessor,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Reprocessor,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Reprocessor,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Reprocessor,Glass re-melt,Tonnage received for recycling,105460.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Reprocessor,Glass re-melt,Tonnage recycled,105516.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Reprocessor,Glass re-melt,Tonnage received but unrecycled,27182.24,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Reprocessor,Glass re-melt,"Tonnage sent on, total",3825.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Reprocessor,Glass re-melt,Tonnage sent on to a reprocessor,1699.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Reprocessor,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Reprocessor,Glass re-melt,Tonnage sent on to other facilities,2125.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Reprocessor,Paper and board,Tonnage received for recycling,95759.57,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Reprocessor,Paper and board,Tonnage recycled,105047.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Reprocessor,Paper and board,Tonnage received but unrecycled,1152.75,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Reprocessor,Paper and board,"Tonnage sent on, total",705.41,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Reprocessor,Paper and board,Tonnage sent on to a reprocessor,705.41,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Reprocessor,Paper and board,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Reprocessor,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Reprocessor,Plastic,Tonnage received for recycling,33149.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Reprocessor,Plastic,Tonnage recycled,30612.27,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Reprocessor,Plastic,Tonnage received but unrecycled,2730.45,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Reprocessor,Plastic,"Tonnage sent on, total",2060.68,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Reprocessor,Plastic,Tonnage sent on to a reprocessor,244.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Reprocessor,Plastic,Tonnage sent on to an exporter,1068.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Reprocessor,Plastic,Tonnage sent on to other facilities,747.49,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Reprocessor,Steel,Tonnage received for recycling,5493.95,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Reprocessor,Steel,Tonnage recycled,5954.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Reprocessor,Steel,Tonnage received but unrecycled,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Reprocessor,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Reprocessor,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Reprocessor,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Reprocessor,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Reprocessor,Wood,Tonnage received for recycling,42767.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Reprocessor,Wood,Tonnage recycled,55357.69,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Reprocessor,Wood,Tonnage received but unrecycled,4899.57,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Reprocessor,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Reprocessor,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Reprocessor,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Reprocessor,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Aluminium,Tonnage received for exporting,7585.19,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Aluminium,Tonnage exported for recycling,7692.71,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Aluminium,Tonnage received but unexported,805.92,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Aluminium,"Tonnage sent on, total",1657.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Aluminium,Tonnage sent on to a reprocessor,539.51,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Aluminium,Tonnage sent on to an exporter,1067.49,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Aluminium,Tonnage sent on to other facilities,50.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Aluminium,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Aluminium,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Aluminium,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Exporter,Glass-other,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass-other,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass-other,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass-other,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass-other,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass-other,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Exporter,Glass re-melt,Tonnage received for exporting,15210.72,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Glass re-melt,Tonnage exported for recycling,14954.03,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Glass re-melt,Tonnage received but unexported,6119.52,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Glass re-melt,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Glass re-melt,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Glass re-melt,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Glass re-melt,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Glass re-melt,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Glass re-melt,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Exporter,Paper and board,Tonnage received for exporting,233759.96,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Paper and board,Tonnage exported for recycling,241305.23,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Paper and board,Tonnage received but unexported,25807.08,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Paper and board,"Tonnage sent on, total",10428.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Paper and board,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Paper and board,Tonnage sent on to an exporter,10428.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Paper and board,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Paper and board,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Paper and board,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Exporter,Plastic,Tonnage received for exporting,54078.67,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Plastic,Tonnage exported for recycling,54081.95,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Plastic,Tonnage received but unexported,2869.31,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Plastic,"Tonnage sent on, total",7371.77,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Plastic,Tonnage sent on to a reprocessor,1726.05,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Plastic,Tonnage sent on to an exporter,4606.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Plastic,Tonnage sent on to other facilities,1038.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Plastic,Tonnage exported that was stopped,83.39,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Plastic,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Plastic,Tonnage repatriated,110.43,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Exporter,Steel,Tonnage received for exporting,23537.47,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Steel,Tonnage exported for recycling,23169.02,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Steel,Tonnage received but unexported,2114.47,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Steel,"Tonnage sent on, total",6348.94,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Steel,Tonnage sent on to a reprocessor,4616.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Steel,Tonnage sent on to an exporter,1732.94,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Steel,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Steel,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Steel,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Exporter,Wood,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Wood,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Wood,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Wood,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Wood,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Exporter,Wood,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Reprocessor,Aluminium,Tonnage received for recycling,3090.31,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Reprocessor,Aluminium,Tonnage recycled,4516.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Reprocessor,Aluminium,Tonnage received but unrecycled,1868.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Reprocessor,Aluminium,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Reprocessor,Aluminium,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Reprocessor,Aluminium,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Reprocessor,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Reprocessor,Glass-other,Tonnage received for recycling,14636.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Reprocessor,Glass-other,Tonnage recycled,21368.28,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Reprocessor,Glass-other,Tonnage received but unrecycled,1213.28,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Reprocessor,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Reprocessor,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Reprocessor,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Reprocessor,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Reprocessor,Glass re-melt,Tonnage received for recycling,101780.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Reprocessor,Glass re-melt,Tonnage recycled,109522.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Reprocessor,Glass re-melt,Tonnage received but unrecycled,20880.34,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Reprocessor,Glass re-melt,"Tonnage sent on, total",1874.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Reprocessor,Glass re-melt,Tonnage sent on to a reprocessor,1150.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Reprocessor,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Reprocessor,Glass re-melt,Tonnage sent on to other facilities,724.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Reprocessor,Paper and board,Tonnage received for recycling,92241.44,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Reprocessor,Paper and board,Tonnage recycled,100800.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Reprocessor,Paper and board,Tonnage received but unrecycled,738.07,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Reprocessor,Paper and board,"Tonnage sent on, total",618.9,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Reprocessor,Paper and board,Tonnage sent on to a reprocessor,618.9,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Reprocessor,Paper and board,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Reprocessor,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Reprocessor,Plastic,Tonnage received for recycling,30766.78,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Reprocessor,Plastic,Tonnage recycled,31234.23,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Reprocessor,Plastic,Tonnage received but unrecycled,2327.44,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Reprocessor,Plastic,"Tonnage sent on, total",3239.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Reprocessor,Plastic,Tonnage sent on to a reprocessor,636.59,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Reprocessor,Plastic,Tonnage sent on to an exporter,1628.73,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Reprocessor,Plastic,Tonnage sent on to other facilities,974.32,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Reprocessor,Steel,Tonnage received for recycling,6595.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Reprocessor,Steel,Tonnage recycled,6057.11,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Reprocessor,Steel,Tonnage received but unrecycled,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Reprocessor,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Reprocessor,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Reprocessor,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Reprocessor,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Reprocessor,Wood,Tonnage received for recycling,39516.32,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Reprocessor,Wood,Tonnage recycled,34350.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Reprocessor,Wood,Tonnage received but unrecycled,5387.11,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Reprocessor,Wood,"Tonnage sent on, total",271.2,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Reprocessor,Wood,Tonnage sent on to a reprocessor,271.2,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Reprocessor,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Reprocessor,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Aluminium,Tonnage received for exporting,8338.03,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Aluminium,Tonnage exported for recycling,8672.9,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Aluminium,Tonnage received but unexported,392.04,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Aluminium,"Tonnage sent on, total",2207.71,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Aluminium,Tonnage sent on to a reprocessor,355.09,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Aluminium,Tonnage sent on to an exporter,1752.92,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Aluminium,Tonnage sent on to other facilities,99.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Aluminium,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Aluminium,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Aluminium,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Exporter,Glass-other,Tonnage received for exporting,4.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass-other,Tonnage exported for recycling,4.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass-other,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass-other,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass-other,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass-other,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Exporter,Glass re-melt,Tonnage received for exporting,14649.23,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Glass re-melt,Tonnage exported for recycling,16305.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Glass re-melt,Tonnage received but unexported,1794.39,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Glass re-melt,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Glass re-melt,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Glass re-melt,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Glass re-melt,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Glass re-melt,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Glass re-melt,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Exporter,Paper and board,Tonnage received for exporting,219438.25,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Paper and board,Tonnage exported for recycling,226133.19,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Paper and board,Tonnage received but unexported,18112.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Paper and board,"Tonnage sent on, total",9407.22,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Paper and board,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Paper and board,Tonnage sent on to an exporter,9407.22,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Paper and board,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Paper and board,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Paper and board,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Exporter,Plastic,Tonnage received for exporting,52985.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Plastic,Tonnage exported for recycling,53054.23,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Plastic,Tonnage received but unexported,2130.1,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Plastic,"Tonnage sent on, total",5211.22,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Plastic,Tonnage sent on to a reprocessor,1021.02,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Plastic,Tonnage sent on to an exporter,3272.04,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Plastic,Tonnage sent on to other facilities,918.16,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Plastic,Tonnage exported that was stopped,27.69,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Plastic,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Plastic,Tonnage repatriated,27.69,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Exporter,Steel,Tonnage received for exporting,19525.39,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Steel,Tonnage exported for recycling,18968.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Steel,Tonnage received but unexported,2723.85,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Steel,"Tonnage sent on, total",1787.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Steel,Tonnage sent on to a reprocessor,546.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Steel,Tonnage sent on to an exporter,1241.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Steel,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Steel,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Steel,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Exporter,Wood,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Wood,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Wood,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Wood,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Wood,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Exporter,Wood,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Reprocessor,Aluminium,Tonnage received for recycling,4868.14,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Reprocessor,Aluminium,Tonnage recycled,6015.24,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Reprocessor,Aluminium,Tonnage received but unrecycled,2777.2,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Reprocessor,Aluminium,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Reprocessor,Aluminium,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Reprocessor,Aluminium,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Reprocessor,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Reprocessor,Glass-other,Tonnage received for recycling,22007.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Reprocessor,Glass-other,Tonnage recycled,25197.27,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Reprocessor,Glass-other,Tonnage received but unrecycled,3222.01,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Reprocessor,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Reprocessor,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Reprocessor,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Reprocessor,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Reprocessor,Glass re-melt,Tonnage received for recycling,118740.45,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Reprocessor,Glass re-melt,Tonnage recycled,109909.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Reprocessor,Glass re-melt,Tonnage received but unrecycled,26902.57,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Reprocessor,Glass re-melt,"Tonnage sent on, total",10261.78,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Reprocessor,Glass re-melt,Tonnage sent on to a reprocessor,4031.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Reprocessor,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Reprocessor,Glass re-melt,Tonnage sent on to other facilities,6230.16,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Reprocessor,Paper and board,Tonnage received for recycling,90427.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Reprocessor,Paper and board,Tonnage recycled,99160.95,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Reprocessor,Paper and board,Tonnage received but unrecycled,1127.47,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Reprocessor,Paper and board,"Tonnage sent on, total",631.56,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Reprocessor,Paper and board,Tonnage sent on to a reprocessor,631.56,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Reprocessor,Paper and board,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Reprocessor,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Reprocessor,Plastic,Tonnage received for recycling,34507.15,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Reprocessor,Plastic,Tonnage recycled,31893.02,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Reprocessor,Plastic,Tonnage received but unrecycled,2736.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Reprocessor,Plastic,"Tonnage sent on, total",3137.96,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Reprocessor,Plastic,Tonnage sent on to a reprocessor,315.56,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Reprocessor,Plastic,Tonnage sent on to an exporter,2320.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Reprocessor,Plastic,Tonnage sent on to other facilities,501.82,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Reprocessor,Steel,Tonnage received for recycling,6827.85,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Reprocessor,Steel,Tonnage recycled,5686.07,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Reprocessor,Steel,Tonnage received but unrecycled,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Reprocessor,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Reprocessor,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Reprocessor,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Reprocessor,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Reprocessor,Wood,Tonnage received for recycling,41168.92,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Reprocessor,Wood,Tonnage recycled,38855.68,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Reprocessor,Wood,Tonnage received but unrecycled,3411.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Reprocessor,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Reprocessor,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Reprocessor,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Reprocessor,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Aluminium,Tonnage received for exporting,8607.97,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Aluminium,Tonnage exported for recycling,8988.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Aluminium,Tonnage received but unexported,1044.82,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Aluminium,"Tonnage sent on, total",2043.04,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Aluminium,Tonnage sent on to a reprocessor,428.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Aluminium,Tonnage sent on to an exporter,1472.44,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Aluminium,Tonnage sent on to other facilities,142.2,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Aluminium,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Aluminium,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Aluminium,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Exporter,Glass-other,Tonnage received for exporting,395.31,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass-other,Tonnage exported for recycling,395.31,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass-other,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass-other,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass-other,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass-other,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Exporter,Glass re-melt,Tonnage received for exporting,20703.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Glass re-melt,Tonnage exported for recycling,19590.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Glass re-melt,Tonnage received but unexported,5553.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Glass re-melt,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Glass re-melt,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Glass re-melt,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Glass re-melt,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Glass re-melt,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Glass re-melt,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Exporter,Paper and board,Tonnage received for exporting,251089.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Paper and board,Tonnage exported for recycling,244778.93,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Paper and board,Tonnage received but unexported,25290.69,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Paper and board,"Tonnage sent on, total",13373.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Paper and board,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Paper and board,Tonnage sent on to an exporter,13373.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Paper and board,Tonnage exported that was stopped,23.94,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Paper and board,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Paper and board,Tonnage repatriated,23.94,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Exporter,Plastic,Tonnage received for exporting,54298.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Plastic,Tonnage exported for recycling,53975.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Plastic,Tonnage received but unexported,1922.87,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Plastic,"Tonnage sent on, total",6245.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Plastic,Tonnage sent on to a reprocessor,1378.43,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Plastic,Tonnage sent on to an exporter,4090.52,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Plastic,Tonnage sent on to other facilities,776.59,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Plastic,Tonnage exported that was stopped,38.11,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Plastic,Tonnage exported that was refused,12.9,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Plastic,Tonnage repatriated,38.11,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Exporter,Steel,Tonnage received for exporting,19661.01,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Steel,Tonnage exported for recycling,22414.53,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Steel,Tonnage received but unexported,633.45,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Steel,"Tonnage sent on, total",2750.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Steel,Tonnage sent on to a reprocessor,515.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Steel,Tonnage sent on to an exporter,2235.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Steel,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Steel,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Steel,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Exporter,Wood,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Wood,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Wood,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Wood,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Wood,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Exporter,Wood,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Reprocessor,Aluminium,Tonnage received for recycling,5458.76,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Reprocessor,Aluminium,Tonnage recycled,5442.46,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Reprocessor,Aluminium,Tonnage received but unrecycled,4123.17,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Reprocessor,Aluminium,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Reprocessor,Aluminium,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Reprocessor,Aluminium,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Reprocessor,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Reprocessor,Glass-other,Tonnage received for recycling,21367.23,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Reprocessor,Glass-other,Tonnage recycled,27594.46,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Reprocessor,Glass-other,Tonnage received but unrecycled,1337.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Reprocessor,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Reprocessor,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Reprocessor,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Reprocessor,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Reprocessor,Glass re-melt,Tonnage received for recycling,113112.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Reprocessor,Glass re-melt,Tonnage recycled,114808.08,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Reprocessor,Glass re-melt,Tonnage received but unrecycled,21270.71,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Reprocessor,Glass re-melt,"Tonnage sent on, total",20503.73,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Reprocessor,Glass re-melt,Tonnage sent on to a reprocessor,12366.07,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Reprocessor,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Reprocessor,Glass re-melt,Tonnage sent on to other facilities,8137.66,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Reprocessor,Paper and board,Tonnage received for recycling,99977.79,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Reprocessor,Paper and board,Tonnage recycled,105876.6,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Reprocessor,Paper and board,Tonnage received but unrecycled,1938.37,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Reprocessor,Paper and board,"Tonnage sent on, total",728.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Reprocessor,Paper and board,Tonnage sent on to a reprocessor,728.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Reprocessor,Paper and board,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Reprocessor,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Reprocessor,Plastic,Tonnage received for recycling,35452.89,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Reprocessor,Plastic,Tonnage recycled,32603.91,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Reprocessor,Plastic,Tonnage received but unrecycled,2755.25,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Reprocessor,Plastic,"Tonnage sent on, total",3146.01,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Reprocessor,Plastic,Tonnage sent on to a reprocessor,618.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Reprocessor,Plastic,Tonnage sent on to an exporter,2020.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Reprocessor,Plastic,Tonnage sent on to other facilities,506.79,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Reprocessor,Steel,Tonnage received for recycling,5430.17,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Reprocessor,Steel,Tonnage recycled,5102.78,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Reprocessor,Steel,Tonnage received but unrecycled,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Reprocessor,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Reprocessor,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Reprocessor,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Reprocessor,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Reprocessor,Wood,Tonnage received for recycling,48915.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Reprocessor,Wood,Tonnage recycled,42214.51,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Reprocessor,Wood,Tonnage received but unrecycled,6863.01,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Reprocessor,Wood,"Tonnage sent on, total",103.22,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Reprocessor,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Reprocessor,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Reprocessor,Wood,Tonnage sent on to other facilities,103.22,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Aluminium,Tonnage received for exporting,9321.31,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Aluminium,Tonnage exported for recycling,9770.91,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Aluminium,Tonnage received but unexported,685.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Aluminium,"Tonnage sent on, total",1294.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Aluminium,Tonnage sent on to a reprocessor,264.95,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Aluminium,Tonnage sent on to an exporter,1029.89,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Aluminium,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Aluminium,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Aluminium,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Exporter,Glass-other,Tonnage received for exporting,458.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass-other,Tonnage exported for recycling,458.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass-other,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass-other,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass-other,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass-other,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Exporter,Glass re-melt,Tonnage received for exporting,22207.32,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Glass re-melt,Tonnage exported for recycling,26517.25,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Glass re-melt,Tonnage received but unexported,4828.52,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Glass re-melt,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Glass re-melt,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Glass re-melt,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Glass re-melt,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Glass re-melt,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Glass re-melt,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Exporter,Paper and board,Tonnage received for exporting,168630.24,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Paper and board,Tonnage exported for recycling,168603.22,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Paper and board,Tonnage received but unexported,24920.49,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Paper and board,"Tonnage sent on, total",11323.42,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Paper and board,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Paper and board,Tonnage sent on to an exporter,11323.42,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Paper and board,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Paper and board,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Paper and board,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Exporter,Plastic,Tonnage received for exporting,50556.82,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Plastic,Tonnage exported for recycling,49137.57,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Plastic,Tonnage received but unexported,2686.17,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Plastic,"Tonnage sent on, total",5714.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Plastic,Tonnage sent on to a reprocessor,801.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Plastic,Tonnage sent on to an exporter,4120.61,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Plastic,Tonnage sent on to other facilities,792.42,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Plastic,Tonnage exported that was stopped,5.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Plastic,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Plastic,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Exporter,Steel,Tonnage received for exporting,28536.46,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Steel,Tonnage exported for recycling,28133.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Steel,Tonnage received but unexported,2285.06,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Steel,"Tonnage sent on, total",6378.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Steel,Tonnage sent on to a reprocessor,4393.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Steel,Tonnage sent on to an exporter,1985.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Steel,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Steel,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Steel,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Exporter,Wood,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Wood,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Wood,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Wood,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Wood,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Exporter,Wood,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-08,Reprocessor,Aluminium,Tonnage received for recycling,4976.31,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Reprocessor,Aluminium,Tonnage recycled,2199.1,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Reprocessor,Aluminium,Tonnage received but unrecycled,3351.86,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Reprocessor,Aluminium,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Reprocessor,Aluminium,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Reprocessor,Aluminium,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Reprocessor,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Reprocessor,Glass-other,Tonnage received for recycling,21536.22,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Reprocessor,Glass-other,Tonnage recycled,22822.39,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Reprocessor,Glass-other,Tonnage received but unrecycled,7156.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Reprocessor,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Reprocessor,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Reprocessor,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Reprocessor,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Reprocessor,Glass re-melt,Tonnage received for recycling,109302.96,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Reprocessor,Glass re-melt,Tonnage recycled,113276.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Reprocessor,Glass re-melt,Tonnage received but unrecycled,23417.91,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Reprocessor,Glass re-melt,"Tonnage sent on, total",11227.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Reprocessor,Glass re-melt,Tonnage sent on to a reprocessor,7403.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Reprocessor,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Reprocessor,Glass re-melt,Tonnage sent on to other facilities,3824.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Reprocessor,Paper and board,Tonnage received for recycling,93457.46,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Reprocessor,Paper and board,Tonnage recycled,102122.34,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Reprocessor,Paper and board,Tonnage received but unrecycled,1366.95,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Reprocessor,Paper and board,"Tonnage sent on, total",477.28,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Reprocessor,Paper and board,Tonnage sent on to a reprocessor,477.28,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Reprocessor,Paper and board,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Reprocessor,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Reprocessor,Plastic,Tonnage received for recycling,33534.24,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Reprocessor,Plastic,Tonnage recycled,32360.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Reprocessor,Plastic,Tonnage received but unrecycled,2429.16,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Reprocessor,Plastic,"Tonnage sent on, total",2583.77,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Reprocessor,Plastic,Tonnage sent on to a reprocessor,604.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Reprocessor,Plastic,Tonnage sent on to an exporter,1633.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Reprocessor,Plastic,Tonnage sent on to other facilities,345.53,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Reprocessor,Steel,Tonnage received for recycling,3476.17,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Reprocessor,Steel,Tonnage recycled,3087.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Reprocessor,Steel,Tonnage received but unrecycled,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Reprocessor,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Reprocessor,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Reprocessor,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Reprocessor,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Reprocessor,Wood,Tonnage received for recycling,37563.57,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Reprocessor,Wood,Tonnage recycled,38898.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Reprocessor,Wood,Tonnage received but unrecycled,2041.33,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Reprocessor,Wood,"Tonnage sent on, total",144.78,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Reprocessor,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Reprocessor,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Reprocessor,Wood,Tonnage sent on to other facilities,144.78,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Aluminium,Tonnage received for exporting,7655.78,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Aluminium,Tonnage exported for recycling,7723.25,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Aluminium,Tonnage received but unexported,851.9,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Aluminium,"Tonnage sent on, total",1168.71,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Aluminium,Tonnage sent on to a reprocessor,200.57,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Aluminium,Tonnage sent on to an exporter,917.06,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Aluminium,Tonnage sent on to other facilities,51.08,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Aluminium,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Aluminium,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Aluminium,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-08,Exporter,Glass-other,Tonnage received for exporting,8.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass-other,Tonnage exported for recycling,8.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass-other,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass-other,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass-other,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass-other,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-08,Exporter,Glass re-melt,Tonnage received for exporting,11710.56,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Glass re-melt,Tonnage exported for recycling,10845.63,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Glass re-melt,Tonnage received but unexported,3918.99,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Glass re-melt,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Glass re-melt,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Glass re-melt,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Glass re-melt,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Glass re-melt,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Glass re-melt,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-08,Exporter,Paper and board,Tonnage received for exporting,114644.93,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Paper and board,Tonnage exported for recycling,126384.1,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Paper and board,Tonnage received but unexported,13335.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Paper and board,"Tonnage sent on, total",7881.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Paper and board,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Paper and board,Tonnage sent on to an exporter,7881.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Paper and board,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Paper and board,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Paper and board,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-08,Exporter,Plastic,Tonnage received for exporting,49745.01,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Plastic,Tonnage exported for recycling,49866.99,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Plastic,Tonnage received but unexported,2173.59,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Plastic,"Tonnage sent on, total",5739.07,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Plastic,Tonnage sent on to a reprocessor,946.97,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Plastic,Tonnage sent on to an exporter,3960.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Plastic,Tonnage sent on to other facilities,831.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Plastic,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Plastic,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Plastic,Tonnage repatriated,5.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-08,Exporter,Steel,Tonnage received for exporting,29236.68,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Steel,Tonnage exported for recycling,27684.25,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Steel,Tonnage received but unexported,4355.77,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Steel,"Tonnage sent on, total",2753.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Steel,Tonnage sent on to a reprocessor,467.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Steel,Tonnage sent on to an exporter,2286.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Steel,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Steel,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Steel,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-08,Exporter,Wood,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Wood,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Wood,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Wood,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Wood,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-08,Exporter,Wood,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Reprocessor,Aluminium,Tonnage received for recycling,4929.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Reprocessor,Aluminium,Tonnage recycled,3899.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Reprocessor,Aluminium,Tonnage received but unrecycled,2592.52,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Reprocessor,Aluminium,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Reprocessor,Aluminium,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Reprocessor,Aluminium,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Reprocessor,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Reprocessor,Glass-other,Tonnage received for recycling,18849.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Reprocessor,Glass-other,Tonnage recycled,19139.97,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Reprocessor,Glass-other,Tonnage received but unrecycled,3112.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Reprocessor,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Reprocessor,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Reprocessor,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Reprocessor,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Reprocessor,Glass re-melt,Tonnage received for recycling,109316.66,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Reprocessor,Glass re-melt,Tonnage recycled,107433.87,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Reprocessor,Glass re-melt,Tonnage received but unrecycled,25115.09,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Reprocessor,Glass re-melt,"Tonnage sent on, total",11303.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Reprocessor,Glass re-melt,Tonnage sent on to a reprocessor,8168.74,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Reprocessor,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Reprocessor,Glass re-melt,Tonnage sent on to other facilities,3134.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Reprocessor,Paper and board,Tonnage received for recycling,97827.16,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Reprocessor,Paper and board,Tonnage recycled,103525.82,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Reprocessor,Paper and board,Tonnage received but unrecycled,1416.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Reprocessor,Paper and board,"Tonnage sent on, total",1030.72,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Reprocessor,Paper and board,Tonnage sent on to a reprocessor,556.42,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Reprocessor,Paper and board,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Reprocessor,Paper and board,Tonnage sent on to other facilities,474.3,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Reprocessor,Plastic,Tonnage received for recycling,35091.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Reprocessor,Plastic,Tonnage recycled,31355.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Reprocessor,Plastic,Tonnage received but unrecycled,4017.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Reprocessor,Plastic,"Tonnage sent on, total",2980.21,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Reprocessor,Plastic,Tonnage sent on to a reprocessor,402.17,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Reprocessor,Plastic,Tonnage sent on to an exporter,2169.14,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Reprocessor,Plastic,Tonnage sent on to other facilities,408.9,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Reprocessor,Steel,Tonnage received for recycling,4535.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Reprocessor,Steel,Tonnage recycled,4536.74,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Reprocessor,Steel,Tonnage received but unrecycled,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Reprocessor,Steel,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Reprocessor,Steel,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Reprocessor,Steel,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Reprocessor,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Reprocessor,Wood,Tonnage received for recycling,21206.66,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Reprocessor,Wood,Tonnage recycled,16703.73,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Reprocessor,Wood,Tonnage received but unrecycled,4228.63,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Reprocessor,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Reprocessor,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Reprocessor,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Reprocessor,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Aluminium,Tonnage received for exporting,6972.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Aluminium,Tonnage exported for recycling,7326.36,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Aluminium,Tonnage received but unexported,61.91,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Aluminium,"Tonnage sent on, total",1738.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Aluminium,Tonnage sent on to a reprocessor,146.56,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Aluminium,Tonnage sent on to an exporter,1592.14,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Aluminium,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Aluminium,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Aluminium,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Aluminium,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Exporter,Glass-other,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass-other,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass-other,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass-other,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass-other,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass-other,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass-other,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass-other,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass-other,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass-other,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Exporter,Glass re-melt,Tonnage received for exporting,12610.83,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Glass re-melt,Tonnage exported for recycling,10821.05,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Glass re-melt,Tonnage received but unexported,4784.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Glass re-melt,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Glass re-melt,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Glass re-melt,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Glass re-melt,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Glass re-melt,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Glass re-melt,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Glass re-melt,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Exporter,Paper and board,Tonnage received for exporting,123515.85,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Paper and board,Tonnage exported for recycling,119235.68,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Paper and board,Tonnage received but unexported,17512.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Paper and board,"Tonnage sent on, total",12730.57,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Paper and board,Tonnage sent on to a reprocessor,101.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Paper and board,Tonnage sent on to an exporter,12629.28,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Paper and board,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Paper and board,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Paper and board,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Paper and board,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Exporter,Plastic,Tonnage received for exporting,59865.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Plastic,Tonnage exported for recycling,59105.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Plastic,Tonnage received but unexported,2865.35,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Plastic,"Tonnage sent on, total",2533.3,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Plastic,Tonnage sent on to a reprocessor,261.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Plastic,Tonnage sent on to an exporter,1354.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Plastic,Tonnage sent on to other facilities,917.42,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Plastic,Tonnage exported that was stopped,21.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Plastic,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Plastic,Tonnage repatriated,21.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Exporter,Steel,Tonnage received for exporting,26000.56,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Steel,Tonnage exported for recycling,23906.41,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Steel,Tonnage received but unexported,3473.51,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Steel,"Tonnage sent on, total",2284.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Steel,Tonnage sent on to a reprocessor,1117.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Steel,Tonnage sent on to an exporter,1167.54,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Steel,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Steel,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Steel,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Steel,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Exporter,Wood,Tonnage received for exporting,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Wood,Tonnage exported for recycling,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Wood,Tonnage received but unexported,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Wood,"Tonnage sent on, total",0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Wood,Tonnage sent on to a reprocessor,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Wood,Tonnage sent on to an exporter,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Wood,Tonnage sent on to other facilities,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Wood,Tonnage exported that was stopped,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Wood,Tonnage exported that was refused,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Exporter,Wood,Tonnage repatriated,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes

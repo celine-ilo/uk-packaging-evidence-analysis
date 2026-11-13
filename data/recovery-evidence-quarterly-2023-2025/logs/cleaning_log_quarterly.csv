@@ -1,0 +1,29 @@
+rule_id,source_column,match_type,find,target_column,replace,category,rows_affected
+Q001,*,trim,,*,,1-error-fix,0
+Q002,material,exact,Aluminium,material_canonical,Aluminium,1-error-fix,291
+Q003,material,exact,Glass Other,material_canonical,Glass other,1-error-fix,219
+Q004,material,exact,Glass-other,material_canonical,Glass other,1-error-fix,0
+Q005,material,exact,Glass Re-melt,material_canonical,Glass re-melt,1-error-fix,219
+Q006,material,exact,Glass re-melt,material_canonical,Glass re-melt,1-error-fix,0
+Q007,material,exact,Paper/board,material_canonical,Paper and board,1-error-fix,507
+Q008,material,exact,Paper and board,material_canonical,Paper and board,1-error-fix,0
+Q009,material,exact,Paper / Card,material_canonical,Paper and board,1-error-fix,0
+Q010,material,exact,Plastic,material_canonical,Plastic,1-error-fix,507
+Q011,material,exact,Steel,material_canonical,Steel,1-error-fix,621
+Q012,material,exact,Wood,material_canonical,Wood,1-error-fix,219
+Q013,material,exact,Paper Composting,material_canonical,Paper composting,1-error-fix,51
+Q014,material,exact,Wood Composting,material_canonical,Wood composting,1-error-fix,51
+Q015,material,exact,Paper/Board,material_canonical,Paper and board,1-error-fix,0
+Q016,measure,exact,PRNs/PERNs issued in January following,in_year,No,2-standardise,27
+Q017,measure,exact,Waste accepted for UK reprocessing,in_year,Yes,2-standardise,108
+Q018,measure,exact,Waste exported for overseas reprocessing,in_year,Yes,2-standardise,108
+Q019,measure,exact,Total waste accepted or exported,in_year,Yes,2-standardise,108
+Q020,measure,exact,Total PRNs/PERNs issued,in_year,Yes,2-standardise,108
+Q021,quarter,note,,quarter,,3-reported-not-fixed,0
+Q022,material,note,"Paper Composting, Wood Composting",material,,3-reported-not-fixed,0
+Q023,measure,note,Total PRNs/PERNs issued,measure,,3-reported-not-fixed,0
+Q024,material,note,Glass,material_canonical,,3-reported-not-fixed,0
+Q025,protocol,note,,protocol,,3-reported-not-fixed,0
+Q026,protocol,note,1+2 Mixed,protocol,,3-reported-not-fixed,0
+Q027,company_name,note,,company_name,,3-reported-not-fixed,0
+Q028,Material Type,note,"Glass Other, Wood",Material Type,,3-reported-not-fixed,0

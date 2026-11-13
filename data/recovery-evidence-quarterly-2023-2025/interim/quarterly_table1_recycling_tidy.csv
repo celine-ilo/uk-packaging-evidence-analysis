@@ -1,0 +1,460 @@
+year,quarter,material,measure,tonnes,source_file
+2023,Q1,Paper/board,Waste accepted for UK reprocessing,274493.53,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Paper/board,Waste exported for overseas reprocessing,753534.17,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Paper/board,Total waste accepted or exported,1028027.7,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Paper/board,Total PRNs/PERNs issued,490461.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Paper Composting,Waste accepted for UK reprocessing,0.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Paper Composting,Waste exported for overseas reprocessing,0.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Paper Composting,Total waste accepted or exported,0.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Paper Composting,Total PRNs/PERNs issued,0.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Glass Re-melt,Waste accepted for UK reprocessing,277031.9,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Glass Re-melt,Waste exported for overseas reprocessing,69233.94,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Glass Re-melt,Total waste accepted or exported,346265.84,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Glass Re-melt,Total PRNs/PERNs issued,177832.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Glass Other,Waste accepted for UK reprocessing,118446.02,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Glass Other,Waste exported for overseas reprocessing,460.56,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Glass Other,Total waste accepted or exported,118906.58,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Glass Other,Total PRNs/PERNs issued,65681.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Aluminium,Waste accepted for UK reprocessing,14989.77,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Aluminium,Waste exported for overseas reprocessing,26119.9,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Aluminium,Total waste accepted or exported,41109.67,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Aluminium,Total PRNs/PERNs issued,18809.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Steel,Waste accepted for UK reprocessing,26410.56,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Steel,Waste exported for overseas reprocessing,78822.52,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Steel,Total waste accepted or exported,105233.08,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Steel,Total PRNs/PERNs issued,19141.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Plastic,Waste accepted for UK reprocessing,138477.3,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Plastic,Waste exported for overseas reprocessing,144673.67,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Plastic,Total waste accepted or exported,283150.97,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Plastic,Total PRNs/PERNs issued,169612.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Wood Composting,Waste accepted for UK reprocessing,0.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Wood Composting,Waste exported for overseas reprocessing,0.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Wood Composting,Total waste accepted or exported,0.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Wood Composting,Total PRNs/PERNs issued,0.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Wood,Waste accepted for UK reprocessing,178888.33,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Wood,Waste exported for overseas reprocessing,479.6,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Wood,Total waste accepted or exported,179367.93,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Wood,Total PRNs/PERNs issued,58568.0,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q2,Paper/board,Waste accepted for UK reprocessing,291399.48,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Paper/board,Waste exported for overseas reprocessing,682489.31,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Paper/board,Total waste accepted or exported,973888.79,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Paper/board,Total PRNs/PERNs issued,1008521.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Paper Composting,Waste accepted for UK reprocessing,0.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Paper Composting,Waste exported for overseas reprocessing,0.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Paper Composting,Total waste accepted or exported,0.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Paper Composting,Total PRNs/PERNs issued,0.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Glass Re-melt,Waste accepted for UK reprocessing,249468.1,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Glass Re-melt,Waste exported for overseas reprocessing,87844.65,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Glass Re-melt,Total waste accepted or exported,337312.75,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Glass Re-melt,Total PRNs/PERNs issued,282741.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Glass Other,Waste accepted for UK reprocessing,118404.71,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Glass Other,Waste exported for overseas reprocessing,604.3,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Glass Other,Total waste accepted or exported,119009.01,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Glass Other,Total PRNs/PERNs issued,96957.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Aluminium,Waste accepted for UK reprocessing,12163.52,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Aluminium,Waste exported for overseas reprocessing,27889.55,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Aluminium,Total waste accepted or exported,40053.07,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Aluminium,Total PRNs/PERNs issued,39144.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Steel,Waste accepted for UK reprocessing,37389.43,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Steel,Waste exported for overseas reprocessing,71280.4,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Steel,Total waste accepted or exported,108669.83,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Steel,Total PRNs/PERNs issued,107388.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Plastic,Waste accepted for UK reprocessing,147945.21,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Plastic,Waste exported for overseas reprocessing,148670.54,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Plastic,Total waste accepted or exported,296615.75,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Plastic,Total PRNs/PERNs issued,283142.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Wood Composting,Waste accepted for UK reprocessing,0.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Wood Composting,Waste exported for overseas reprocessing,0.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Wood Composting,Total waste accepted or exported,0.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Wood Composting,Total PRNs/PERNs issued,0.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Wood,Waste accepted for UK reprocessing,164260.85,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Wood,Waste exported for overseas reprocessing,335.42,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Wood,Total waste accepted or exported,164596.27,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Wood,Total PRNs/PERNs issued,167557.0,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q3,Paper/board,Waste accepted for UK reprocessing,302003.34,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Paper/board,Waste exported for overseas reprocessing,672630.72,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Paper/board,Total waste accepted or exported,974634.06,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Paper/board,Total PRNs/PERNs issued,871701.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Paper Composting,Waste accepted for UK reprocessing,0.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Paper Composting,Waste exported for overseas reprocessing,0.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Paper Composting,Total waste accepted or exported,0.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Paper Composting,Total PRNs/PERNs issued,0.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Glass Re-melt,Waste accepted for UK reprocessing,278274.16,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Glass Re-melt,Waste exported for overseas reprocessing,76280.66,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Glass Re-melt,Total waste accepted or exported,354554.82,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Glass Re-melt,Total PRNs/PERNs issued,327444.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Glass Other,Waste accepted for UK reprocessing,107859.86,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Glass Other,Waste exported for overseas reprocessing,677.22,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Glass Other,Total waste accepted or exported,108537.08,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Glass Other,Total PRNs/PERNs issued,120243.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Aluminium,Waste accepted for UK reprocessing,15494.72,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Aluminium,Waste exported for overseas reprocessing,28543.39,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Aluminium,Total waste accepted or exported,44038.11,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Aluminium,Total PRNs/PERNs issued,39590.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Steel,Waste accepted for UK reprocessing,39544.14,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Steel,Waste exported for overseas reprocessing,52607.98,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Steel,Total waste accepted or exported,92152.12,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Steel,Total PRNs/PERNs issued,108720.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Plastic,Waste accepted for UK reprocessing,149801.72,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Plastic,Waste exported for overseas reprocessing,168696.28,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Plastic,Total waste accepted or exported,318498.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Plastic,Total PRNs/PERNs issued,325024.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Wood Composting,Waste accepted for UK reprocessing,0.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Wood Composting,Waste exported for overseas reprocessing,0.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Wood Composting,Total waste accepted or exported,0.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Wood Composting,Total PRNs/PERNs issued,0.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Wood,Waste accepted for UK reprocessing,168990.52,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Wood,Waste exported for overseas reprocessing,544.13,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Wood,Total waste accepted or exported,169534.65,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Wood,Total PRNs/PERNs issued,150708.0,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q4,Paper/board,Waste accepted for UK reprocessing,273381.32,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Paper/board,Waste exported for overseas reprocessing,730282.59,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Paper/board,Total waste accepted or exported,1003663.91,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Paper/board,Total PRNs/PERNs issued,1213253.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Paper/board,PRNs/PERNs issued in January following,391393.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Paper Composting,Waste accepted for UK reprocessing,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Paper Composting,Waste exported for overseas reprocessing,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Paper Composting,Total waste accepted or exported,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Paper Composting,Total PRNs/PERNs issued,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Paper Composting,PRNs/PERNs issued in January following,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Re-melt,Waste accepted for UK reprocessing,262069.67,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Re-melt,Waste exported for overseas reprocessing,66926.97,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Re-melt,Total waste accepted or exported,328996.64,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Re-melt,Total PRNs/PERNs issued,426104.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Re-melt,PRNs/PERNs issued in January following,152983.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Other,Waste accepted for UK reprocessing,103877.46,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Other,Waste exported for overseas reprocessing,641.45,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Other,Total waste accepted or exported,104518.91,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Other,Total PRNs/PERNs issued,132343.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Glass Other,PRNs/PERNs issued in January following,33683.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Aluminium,Waste accepted for UK reprocessing,10071.13,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Aluminium,Waste exported for overseas reprocessing,27085.17,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Aluminium,Total waste accepted or exported,37156.3,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Aluminium,Total PRNs/PERNs issued,46205.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Aluminium,PRNs/PERNs issued in January following,15798.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Steel,Waste accepted for UK reprocessing,40413.3,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Steel,Waste exported for overseas reprocessing,42631.94,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Steel,Total waste accepted or exported,83045.24,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Steel,Total PRNs/PERNs issued,102307.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Steel,PRNs/PERNs issued in January following,48158.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Plastic,Waste accepted for UK reprocessing,139061.27,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Plastic,Waste exported for overseas reprocessing,149127.44,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Plastic,Total waste accepted or exported,288188.71,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Plastic,Total PRNs/PERNs issued,322541.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Plastic,PRNs/PERNs issued in January following,81568.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood Composting,Waste accepted for UK reprocessing,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood Composting,Waste exported for overseas reprocessing,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood Composting,Total waste accepted or exported,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood Composting,Total PRNs/PERNs issued,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood Composting,PRNs/PERNs issued in January following,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood,Waste accepted for UK reprocessing,153425.31,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood,Waste exported for overseas reprocessing,703.01,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood,Total waste accepted or exported,154128.32,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood,Total PRNs/PERNs issued,221873.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Wood,PRNs/PERNs issued in January following,65556.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2024,Q1,Paper/board,Waste accepted for UK reprocessing,301105.35,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Paper/board,Waste exported for overseas reprocessing,741538.78,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Paper/board,Total waste accepted or exported,1042644.13,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Paper/board,Total PRNs/PERNs issued,499454.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Paper Composting,Waste accepted for UK reprocessing,0.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Paper Composting,Waste exported for overseas reprocessing,0.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Paper Composting,Total waste accepted or exported,0.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Paper Composting,Total PRNs/PERNs issued,0.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Glass Re-melt,Waste accepted for UK reprocessing,261267.95,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Glass Re-melt,Waste exported for overseas reprocessing,52540.22,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Glass Re-melt,Total waste accepted or exported,313808.17,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Glass Re-melt,Total PRNs/PERNs issued,146320.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Glass Other,Waste accepted for UK reprocessing,120545.94,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Glass Other,Waste exported for overseas reprocessing,679.77,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Glass Other,Total waste accepted or exported,121225.71,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Glass Other,Total PRNs/PERNs issued,61688.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Aluminium,Waste accepted for UK reprocessing,11562.57,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Aluminium,Waste exported for overseas reprocessing,23258.3,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Aluminium,Total waste accepted or exported,34820.87,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Aluminium,Total PRNs/PERNs issued,16482.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Steel,Waste accepted for UK reprocessing,50258.8,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Steel,Waste exported for overseas reprocessing,47729.25,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Steel,Total waste accepted or exported,97988.05,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Steel,Total PRNs/PERNs issued,45277.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Plastic,Waste accepted for UK reprocessing,148720.74,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Plastic,Waste exported for overseas reprocessing,155643.5,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Plastic,Total waste accepted or exported,304364.24,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Plastic,Total PRNs/PERNs issued,196965.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Wood Composting,Waste accepted for UK reprocessing,0.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Wood Composting,Waste exported for overseas reprocessing,0.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Wood Composting,Total waste accepted or exported,0.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Wood Composting,Total PRNs/PERNs issued,0.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Wood,Waste accepted for UK reprocessing,163779.01,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Wood,Waste exported for overseas reprocessing,504.05,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Wood,Total waste accepted or exported,164283.06,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Wood,Total PRNs/PERNs issued,56762.0,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q2,Paper/board,Waste accepted for UK reprocessing,312854.28,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Paper/board,Waste exported for overseas reprocessing,676302.88,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Paper/board,Total waste accepted or exported,989157.16,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Paper/board,Total PRNs/PERNs issued,960748.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Paper Composting,Waste accepted for UK reprocessing,0.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Paper Composting,Waste exported for overseas reprocessing,0.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Paper Composting,Total waste accepted or exported,0.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Paper Composting,Total PRNs/PERNs issued,0.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Glass Re-melt,Waste accepted for UK reprocessing,273130.26,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Glass Re-melt,Waste exported for overseas reprocessing,68760.22,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Glass Re-melt,Total waste accepted or exported,341890.48,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Glass Re-melt,Total PRNs/PERNs issued,284394.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Glass Other,Waste accepted for UK reprocessing,127876.2,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Glass Other,Waste exported for overseas reprocessing,746.39,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Glass Other,Total waste accepted or exported,128622.59,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Glass Other,Total PRNs/PERNs issued,108512.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Aluminium,Waste accepted for UK reprocessing,14360.73,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Aluminium,Waste exported for overseas reprocessing,26599.73,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Aluminium,Total waste accepted or exported,40960.46,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Aluminium,Total PRNs/PERNs issued,38919.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Steel,Waste accepted for UK reprocessing,32075.64,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Steel,Waste exported for overseas reprocessing,68238.62,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Steel,Total waste accepted or exported,100314.26,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Steel,Total PRNs/PERNs issued,95103.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Plastic,Waste accepted for UK reprocessing,158132.87,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Plastic,Waste exported for overseas reprocessing,148923.64,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Plastic,Total waste accepted or exported,307056.51,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Plastic,Total PRNs/PERNs issued,289401.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Wood Composting,Waste accepted for UK reprocessing,0.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Wood Composting,Waste exported for overseas reprocessing,0.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Wood Composting,Total waste accepted or exported,0.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Wood Composting,Total PRNs/PERNs issued,0.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Wood,Waste accepted for UK reprocessing,162617.67,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Wood,Waste exported for overseas reprocessing,554.79,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Wood,Total waste accepted or exported,163172.46,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Wood,Total PRNs/PERNs issued,135567.0,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q3,Paper/board,Waste accepted for UK reprocessing,312287.29,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Paper/board,Waste exported for overseas reprocessing,680070.57,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Paper/board,Total waste accepted or exported,992357.86,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Paper/board,Total PRNs/PERNs issued,926027.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Paper Composting,Waste accepted for UK reprocessing,0.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Paper Composting,Waste exported for overseas reprocessing,0.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Paper Composting,Total waste accepted or exported,0.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Paper Composting,Total PRNs/PERNs issued,0.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Glass Re-melt,Waste accepted for UK reprocessing,295172.31,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Glass Re-melt,Waste exported for overseas reprocessing,55980.61,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Glass Re-melt,Total waste accepted or exported,351152.92,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Glass Re-melt,Total PRNs/PERNs issued,369590.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Glass Other,Waste accepted for UK reprocessing,101914.55,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Glass Other,Waste exported for overseas reprocessing,738.38,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Glass Other,Total waste accepted or exported,102652.93,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Glass Other,Total PRNs/PERNs issued,110481.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Aluminium,Waste accepted for UK reprocessing,13786.1,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Aluminium,Waste exported for overseas reprocessing,29692.9,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Aluminium,Total waste accepted or exported,43479.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Aluminium,Total PRNs/PERNs issued,40803.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Steel,Waste accepted for UK reprocessing,17820.91,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Steel,Waste exported for overseas reprocessing,71387.11,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Steel,Total waste accepted or exported,89208.02,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Steel,Total PRNs/PERNs issued,73819.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Plastic,Waste accepted for UK reprocessing,144869.62,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Plastic,Waste exported for overseas reprocessing,133003.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Plastic,Total waste accepted or exported,277872.62,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Plastic,Total PRNs/PERNs issued,263981.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Wood Composting,Waste accepted for UK reprocessing,0.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Wood Composting,Waste exported for overseas reprocessing,0.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Wood Composting,Total waste accepted or exported,0.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Wood Composting,Total PRNs/PERNs issued,0.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Wood,Waste accepted for UK reprocessing,154208.58,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Wood,Waste exported for overseas reprocessing,340.27,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Wood,Total waste accepted or exported,154548.85,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Wood,Total PRNs/PERNs issued,153012.0,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q4,Paper/board,Waste accepted for UK reprocessing,293259.35,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Paper/board,Waste exported for overseas reprocessing,751442.21,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Paper/board,Total waste accepted or exported,1044701.56,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Paper/board,Total PRNs/PERNs issued,1127268.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Paper/board,PRNs/PERNs issued in January following,516977.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Paper Composting,Waste accepted for UK reprocessing,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Paper Composting,Waste exported for overseas reprocessing,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Paper Composting,Total waste accepted or exported,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Paper Composting,Total PRNs/PERNs issued,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Paper Composting,PRNs/PERNs issued in January following,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Re-melt,Waste accepted for UK reprocessing,273975.85,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Re-melt,Waste exported for overseas reprocessing,50694.97,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Re-melt,Total waste accepted or exported,324670.82,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Re-melt,Total PRNs/PERNs issued,359150.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Re-melt,PRNs/PERNs issued in January following,171989.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Other,Waste accepted for UK reprocessing,75062.77,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Other,Waste exported for overseas reprocessing,319.3,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Other,Total waste accepted or exported,75382.07,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Other,Total PRNs/PERNs issued,114363.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Glass Other,PRNs/PERNs issued in January following,31996.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Aluminium,Waste accepted for UK reprocessing,11518.36,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Aluminium,Waste exported for overseas reprocessing,26270.49,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Aluminium,Total waste accepted or exported,37788.85,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Aluminium,Total PRNs/PERNs issued,42778.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Aluminium,PRNs/PERNs issued in January following,12809.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Steel,Waste accepted for UK reprocessing,12712.13,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Steel,Waste exported for overseas reprocessing,79204.09,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Steel,Total waste accepted or exported,91916.22,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Steel,Total PRNs/PERNs issued,104420.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Steel,PRNs/PERNs issued in January following,53423.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Plastic,Waste accepted for UK reprocessing,133457.2,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Plastic,Waste exported for overseas reprocessing,131634.69,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Plastic,Total waste accepted or exported,265091.89,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Plastic,Total PRNs/PERNs issued,312167.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Plastic,PRNs/PERNs issued in January following,83484.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood Composting,Waste accepted for UK reprocessing,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood Composting,Waste exported for overseas reprocessing,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood Composting,Total waste accepted or exported,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood Composting,Total PRNs/PERNs issued,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood Composting,PRNs/PERNs issued in January following,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood,Waste accepted for UK reprocessing,152121.91,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood,Waste exported for overseas reprocessing,327.94,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood,Total waste accepted or exported,152449.85,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood,Total PRNs/PERNs issued,182224.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Wood,PRNs/PERNs issued in January following,85911.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2025,Q1,Paper/board,Waste accepted for UK reprocessing,285830.4,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Paper/board,Waste exported for overseas reprocessing,716965.34,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Paper/board,Total waste accepted or exported,1002795.74,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Paper/board,Total PRNs/PERNs issued,491086.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Paper Composting,Waste accepted for UK reprocessing,0.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Paper Composting,Waste exported for overseas reprocessing,0.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Paper Composting,Total waste accepted or exported,0.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Paper Composting,Total PRNs/PERNs issued,0.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Glass Re-melt,Waste accepted for UK reprocessing,255312.07,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Glass Re-melt,Waste exported for overseas reprocessing,37364.37,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Glass Re-melt,Total waste accepted or exported,292676.44,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Glass Re-melt,Total PRNs/PERNs issued,109075.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Glass Other,Waste accepted for UK reprocessing,63778.57,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Glass Other,Waste exported for overseas reprocessing,621.95,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Glass Other,Total waste accepted or exported,64400.52,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Glass Other,Total PRNs/PERNs issued,22239.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Aluminium,Waste accepted for UK reprocessing,13003.39,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Aluminium,Waste exported for overseas reprocessing,21117.78,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Aluminium,Total waste accepted or exported,34121.17,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Aluminium,Total PRNs/PERNs issued,12394.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Steel,Waste accepted for UK reprocessing,19233.26,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Steel,Waste exported for overseas reprocessing,63433.72,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Steel,Total waste accepted or exported,82666.98,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Steel,Total PRNs/PERNs issued,30620.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Plastic,Waste accepted for UK reprocessing,133777.35,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Plastic,Waste exported for overseas reprocessing,151834.29,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Plastic,Total waste accepted or exported,285611.64,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Plastic,Total PRNs/PERNs issued,181882.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Wood Composting,Waste accepted for UK reprocessing,0.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Wood Composting,Waste exported for overseas reprocessing,0.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Wood Composting,Total waste accepted or exported,0.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Wood Composting,Total PRNs/PERNs issued,0.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Wood,Waste accepted for UK reprocessing,132084.42,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Wood,Waste exported for overseas reprocessing,452.54,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Wood,Total waste accepted or exported,132536.96,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Wood,Total PRNs/PERNs issued,44311.0,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q2,Paper/board,Waste accepted for UK reprocessing,299432.66,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Paper/board,Waste exported for overseas reprocessing,626480.81,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Paper/board,Total waste accepted or exported,925913.47,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Paper/board,Total PRNs/PERNs issued,811190.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Paper Composting,Waste accepted for UK reprocessing,0.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Paper Composting,Waste exported for overseas reprocessing,0.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Paper Composting,Total waste accepted or exported,0.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Paper Composting,Total PRNs/PERNs issued,0.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Glass Re-melt,Waste accepted for UK reprocessing,270939.56,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Glass Re-melt,Waste exported for overseas reprocessing,46020.65,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Glass Re-melt,Total waste accepted or exported,316960.21,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Glass Re-melt,Total PRNs/PERNs issued,306891.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Glass Other,Waste accepted for UK reprocessing,90824.94,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Glass Other,Waste exported for overseas reprocessing,393.63,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Glass Other,Total waste accepted or exported,91218.57,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Glass Other,Total PRNs/PERNs issued,70158.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Aluminium,Waste accepted for UK reprocessing,12250.82,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Aluminium,Waste exported for overseas reprocessing,24320.14,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Aluminium,Total waste accepted or exported,36570.96,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Aluminium,Total PRNs/PERNs issued,40275.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Steel,Waste accepted for UK reprocessing,17996.25,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Steel,Waste exported for overseas reprocessing,88416.55,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Steel,Total waste accepted or exported,106412.8,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Steel,Total PRNs/PERNs issued,86775.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Plastic,Waste accepted for UK reprocessing,147160.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Plastic,Waste exported for overseas reprocessing,153419.44,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Plastic,Total waste accepted or exported,300579.44,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Plastic,Total PRNs/PERNs issued,299046.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Wood Composting,Waste accepted for UK reprocessing,0.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Wood Composting,Waste exported for overseas reprocessing,0.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Wood Composting,Total waste accepted or exported,0.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Wood Composting,Total PRNs/PERNs issued,0.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Wood,Waste accepted for UK reprocessing,147728.27,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Wood,Waste exported for overseas reprocessing,170.74,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Wood,Total waste accepted or exported,147899.01,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Wood,Total PRNs/PERNs issued,123536.0,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q3,Paper/board,Waste accepted for UK reprocessing,295184.1,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Paper/board,Waste exported for overseas reprocessing,670589.52,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Paper/board,Total waste accepted or exported,965773.62,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Paper/board,Total PRNs/PERNs issued,872407.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Paper Composting,Waste accepted for UK reprocessing,0.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Paper Composting,Waste exported for overseas reprocessing,0.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Paper Composting,Total waste accepted or exported,0.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Paper Composting,Total PRNs/PERNs issued,0.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Glass Re-melt,Waste accepted for UK reprocessing,269295.17,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Glass Re-melt,Waste exported for overseas reprocessing,59541.82,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Glass Re-melt,Total waste accepted or exported,328836.99,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Glass Re-melt,Total PRNs/PERNs issued,294751.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Glass Other,Waste accepted for UK reprocessing,122876.31,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Glass Other,Waste exported for overseas reprocessing,547.63,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Glass Other,Total waste accepted or exported,123423.94,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Glass Other,Total PRNs/PERNs issued,105331.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Aluminium,Waste accepted for UK reprocessing,11512.01,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Aluminium,Waste exported for overseas reprocessing,30560.75,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Aluminium,Total waste accepted or exported,42072.76,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Aluminium,Total PRNs/PERNs issued,37775.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Steel,Waste accepted for UK reprocessing,15612.74,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Steel,Waste exported for overseas reprocessing,76855.87,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Steel,Total waste accepted or exported,92468.61,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Steel,Total PRNs/PERNs issued,96390.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Plastic,Waste accepted for UK reprocessing,154513.81,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Plastic,Waste exported for overseas reprocessing,148541.67,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Plastic,Total waste accepted or exported,303055.48,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Plastic,Total PRNs/PERNs issued,308432.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Wood Composting,Waste accepted for UK reprocessing,0.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Wood Composting,Waste exported for overseas reprocessing,0.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Wood Composting,Total waste accepted or exported,0.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Wood Composting,Total PRNs/PERNs issued,0.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Wood,Waste accepted for UK reprocessing,126920.66,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Wood,Waste exported for overseas reprocessing,501.77,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Wood,Total waste accepted or exported,127422.43,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Wood,Total PRNs/PERNs issued,122379.0,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q4,Paper/board,Waste accepted for UK reprocessing,293683.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Paper/board,Waste exported for overseas reprocessing,707151.34,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Paper/board,Total waste accepted or exported,1000834.34,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Paper/board,Total PRNs/PERNs issued,915770.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Paper/board,PRNs/PERNs issued in January following,585727.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Paper Composting,Waste accepted for UK reprocessing,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Paper Composting,Waste exported for overseas reprocessing,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Paper Composting,Total waste accepted or exported,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Paper Composting,Total PRNs/PERNs issued,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Paper Composting,PRNs/PERNs issued in January following,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Re-melt,Waste accepted for UK reprocessing,271106.28,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Re-melt,Waste exported for overseas reprocessing,60173.56,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Re-melt,Total waste accepted or exported,331279.84,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Re-melt,Total PRNs/PERNs issued,335604.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Re-melt,PRNs/PERNs issued in January following,221725.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Other,Waste accepted for UK reprocessing,82220.14,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Other,Waste exported for overseas reprocessing,336.58,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Other,Total waste accepted or exported,82556.72,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Other,Total PRNs/PERNs issued,101654.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Glass Other,PRNs/PERNs issued in January following,52364.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Aluminium,Waste accepted for UK reprocessing,10029.62,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Aluminium,Waste exported for overseas reprocessing,27889.35,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Aluminium,Total waste accepted or exported,37918.97,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Aluminium,Total PRNs/PERNs issued,33853.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Aluminium,PRNs/PERNs issued in January following,22056.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Steel,Waste accepted for UK reprocessing,16969.74,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Steel,Waste exported for overseas reprocessing,72052.12,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Steel,Total waste accepted or exported,89021.86,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Steel,Total PRNs/PERNs issued,83929.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Steel,PRNs/PERNs issued in January following,47254.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Plastic,Waste accepted for UK reprocessing,147648.18,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Plastic,Waste exported for overseas reprocessing,169921.89,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Plastic,Total waste accepted or exported,317570.07,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Plastic,Total PRNs/PERNs issued,305684.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Plastic,PRNs/PERNs issued in January following,108235.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood Composting,Waste accepted for UK reprocessing,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood Composting,Waste exported for overseas reprocessing,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood Composting,Total waste accepted or exported,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood Composting,Total PRNs/PERNs issued,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood Composting,PRNs/PERNs issued in January following,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood,Waste accepted for UK reprocessing,132538.57,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood,Waste exported for overseas reprocessing,581.73,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood,Total waste accepted or exported,133120.3,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood,Total PRNs/PERNs issued,196078.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Wood,PRNs/PERNs issued in January following,52460.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls

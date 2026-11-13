@@ -1,0 +1,118 @@
+month,material,accreditation_type,measure,value,unit,source_file,material_canonical,is_provisional
+2026-01,Aluminium,Exporter,Waste balance,3890.13,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Aluminium,Exporter,Waste balance,5565.7,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Aluminium,Exporter,Waste balance,7133.59,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Aluminium,Exporter,Waste balance,7321.44,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Aluminium,Exporter,Waste balance,6808.29,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Aluminium,Exporter,Waste balance,8335.9,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Aluminium,Exporter,Waste balance,8962.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-08,Aluminium,Exporter,Waste balance,9380.77,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Aluminium,Exporter,Waste balance,7524.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-01,Aluminium,Reprocessor,Waste balance,4667.91,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-02,Aluminium,Reprocessor,Waste balance,4609.1,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-03,Aluminium,Reprocessor,Waste balance,4930.49,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-04,Aluminium,Reprocessor,Waste balance,5106.05,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-05,Aluminium,Reprocessor,Waste balance,3110.27,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-06,Aluminium,Reprocessor,Waste balance,4723.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-07,Aluminium,Reprocessor,Waste balance,5597.85,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,No
+2026-08,Aluminium,Reprocessor,Waste balance,4878.66,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-09,Aluminium,Reprocessor,Waste balance,4851.28,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Aluminium,Yes
+2026-01,Glass-other,Exp & Rep,Waste balance,19794.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-02,Glass-other,Exp & Rep,Waste balance,21276.81,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-03,Glass-other,Exp & Rep,Waste balance,20439.77,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-04,Glass-other,Exp & Rep,Waste balance,16717.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-05,Glass-other,Exp & Rep,Waste balance,16733.5,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-06,Glass-other,Exp & Rep,Waste balance,28565.31,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-07,Glass-other,Exp & Rep,Waste balance,34487.16,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,No
+2026-08,Glass-other,Exp & Rep,Waste balance,30214.32,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-09,Glass-other,Exp & Rep,Waste balance,25378.9,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass other,Yes
+2026-01,Glass re-melt,Exporter,Waste balance,7826.97,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Glass re-melt,Exporter,Waste balance,21526.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Glass re-melt,Exporter,Waste balance,18892.26,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Glass re-melt,Exporter,Waste balance,11559.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Glass re-melt,Exporter,Waste balance,24398.74,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Glass re-melt,Exporter,Waste balance,19064.03,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Glass re-melt,Exporter,Waste balance,23915.22,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-08,Glass re-melt,Exporter,Waste balance,17926.01,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Glass re-melt,Exporter,Waste balance,7959.66,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-01,Glass re-melt,Reprocessor,Waste balance,99922.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-02,Glass re-melt,Reprocessor,Waste balance,82206.11,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-03,Glass re-melt,Reprocessor,Waste balance,89209.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-04,Glass re-melt,Reprocessor,Waste balance,93963.88,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-05,Glass re-melt,Reprocessor,Waste balance,79822.83,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-06,Glass re-melt,Reprocessor,Waste balance,101988.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-07,Glass re-melt,Reprocessor,Waste balance,93064.64,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,No
+2026-08,Glass re-melt,Reprocessor,Waste balance,92692.57,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-09,Glass re-melt,Reprocessor,Waste balance,89651.95,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Glass re-melt,Yes
+2026-01,Paper and board,Exporter,Waste balance,9739.77,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Paper and board,Exporter,Waste balance,46341.57,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Paper and board,Exporter,Waste balance,162520.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Paper and board,Exporter,Waste balance,239031.74,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Paper and board,Exporter,Waste balance,214383.36,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Paper and board,Exporter,Waste balance,203568.3,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Paper and board,Exporter,Waste balance,248622.86,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-08,Paper and board,Exporter,Waste balance,238052.75,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Paper and board,Exporter,Waste balance,256086.33,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-01,Paper and board,Reprocessor,Waste balance,91043.35,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-02,Paper and board,Reprocessor,Waste balance,91264.59,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-03,Paper and board,Reprocessor,Waste balance,109965.87,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-04,Paper and board,Reprocessor,Waste balance,105823.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-05,Paper and board,Reprocessor,Waste balance,103232.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-06,Paper and board,Reprocessor,Waste balance,97139.58,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-07,Paper and board,Reprocessor,Waste balance,103509.13,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,No
+2026-08,Paper and board,Reprocessor,Waste balance,92746.8,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-09,Paper and board,Reprocessor,Waste balance,96796.44,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Paper and board,Yes
+2026-01,Plastic,Exporter,Waste balance,12748.87,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Plastic,Exporter,Waste balance,26852.8,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Plastic,Exporter,Waste balance,41839.5,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Plastic,Exporter,Waste balance,53089.13,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Plastic,Exporter,Waste balance,48321.67,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Plastic,Exporter,Waste balance,48152.18,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Plastic,Exporter,Waste balance,53127.84,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-08,Plastic,Exporter,Waste balance,49391.3,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Plastic,Exporter,Waste balance,47672.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-01,Plastic,Reprocessor,Waste balance,40831.17,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-02,Plastic,Reprocessor,Waste balance,28994.39,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-03,Plastic,Reprocessor,Waste balance,31784.48,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-04,Plastic,Reprocessor,Waste balance,31363.02,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-05,Plastic,Reprocessor,Waste balance,28497.71,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-06,Plastic,Reprocessor,Waste balance,32135.62,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-07,Plastic,Reprocessor,Waste balance,32324.04,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,No
+2026-08,Plastic,Reprocessor,Waste balance,32081.85,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-09,Plastic,Reprocessor,Waste balance,33389.4,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Plastic,Yes
+2026-01,Steel,Exporter,Waste balance,993.24,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Steel,Exporter,Waste balance,6717.67,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Steel,Exporter,Waste balance,12833.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Steel,Exporter,Waste balance,13716.37,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Steel,Exporter,Waste balance,17728.24,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Steel,Exporter,Waste balance,22345.42,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Steel,Exporter,Waste balance,26783.12,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-08,Steel,Exporter,Waste balance,14576.8,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Steel,Exporter,Waste balance,19605.76,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-01,Steel,Reprocessor,Waste balance,4443.07,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-02,Steel,Reprocessor,Waste balance,4961.09,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-03,Steel,Reprocessor,Waste balance,6341.47,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-04,Steel,Reprocessor,Waste balance,5290.75,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-05,Steel,Reprocessor,Waste balance,6056.98,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-06,Steel,Reprocessor,Waste balance,5236.38,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-07,Steel,Reprocessor,Waste balance,4782.78,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,No
+2026-08,Steel,Reprocessor,Waste balance,2736.17,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-09,Steel,Reprocessor,Waste balance,4655.43,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Steel,Yes
+2026-01,Wood,Exporter,Waste balance,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Wood,Exporter,Waste balance,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Wood,Exporter,Waste balance,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Wood,Exporter,Waste balance,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Wood,Exporter,Waste balance,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Wood,Exporter,Waste balance,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Wood,Exporter,Waste balance,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-08,Wood,Exporter,Waste balance,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Wood,Exporter,Waste balance,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-01,Wood,Reprocessor,Waste balance,33819.04,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-02,Wood,Reprocessor,Waste balance,35680.42,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-03,Wood,Reprocessor,Waste balance,40139.39,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-04,Wood,Reprocessor,Waste balance,38555.65,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-05,Wood,Reprocessor,Waste balance,35014.35,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-06,Wood,Reprocessor,Waste balance,36831.76,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-07,Wood,Reprocessor,Waste balance,45583.55,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,No
+2026-08,Wood,Reprocessor,Waste balance,36107.28,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes
+2026-09,Wood,Reprocessor,Waste balance,42526.03,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx,Wood,Yes

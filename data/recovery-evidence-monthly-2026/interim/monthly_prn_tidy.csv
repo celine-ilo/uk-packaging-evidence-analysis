@@ -1,0 +1,379 @@
+month,stream,material,measure,value,unit,source_file
+2026-01,Reprocessor,Aluminium,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Aluminium,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Aluminium,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Glass-other,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Glass-other,Total revenue from PRNs/PERNs (£),443646.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Glass-other,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Glass re-melt,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Glass re-melt,Total revenue from PRNs/PERNs (£),1060385.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Glass re-melt,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Paper and board,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Paper and board,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Paper and board,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Plastic,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Plastic,Total revenue from PRNs/PERNs (£),42700.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Plastic,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Steel,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Steel,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Steel,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Reprocessor,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Aluminium,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Aluminium,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Aluminium,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Glass-other,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Glass-other,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Glass-other,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Glass re-melt,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Glass re-melt,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Glass re-melt,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Paper and board,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Paper and board,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Paper and board,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Plastic,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Plastic,Total revenue from PRNs/PERNs (£),342244.2,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Plastic,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Steel,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Steel,Total revenue from PRNs/PERNs (£),13210.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Steel,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-01,Exporter,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Aluminium,Tonnage of PRNs/PERNs issued,18.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Aluminium,Total revenue from PRNs/PERNs (£),81.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Aluminium,Average PRN/PERN price per tonne (£),4.5,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Glass-other,Tonnage of PRNs/PERNs issued,2084.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Glass-other,Total revenue from PRNs/PERNs (£),664814.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Glass-other,Average PRN/PERN price per tonne (£),319.01,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Glass re-melt,Tonnage of PRNs/PERNs issued,2000.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Glass re-melt,Total revenue from PRNs/PERNs (£),1251540.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Glass re-melt,Average PRN/PERN price per tonne (£),625.77,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Paper and board,Tonnage of PRNs/PERNs issued,8611.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Paper and board,Total revenue from PRNs/PERNs (£),12916.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Paper and board,Average PRN/PERN price per tonne (£),1.5,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Plastic,Tonnage of PRNs/PERNs issued,3345.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Plastic,Total revenue from PRNs/PERNs (£),812956.16,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Plastic,Average PRN/PERN price per tonne (£),243.04,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Steel,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Steel,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Steel,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Wood,Tonnage of PRNs/PERNs issued,1000.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Wood,Total revenue from PRNs/PERNs (£),32372.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Reprocessor,Wood,Average PRN/PERN price per tonne (£),32.37,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Aluminium,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Aluminium,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Aluminium,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Glass-other,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Glass-other,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Glass-other,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Glass re-melt,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Glass re-melt,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Glass re-melt,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Paper and board,Tonnage of PRNs/PERNs issued,100.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Paper and board,Total revenue from PRNs/PERNs (£),175.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Paper and board,Average PRN/PERN price per tonne (£),1.75,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Plastic,Tonnage of PRNs/PERNs issued,7979.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Plastic,Total revenue from PRNs/PERNs (£),2136200.96,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Plastic,Average PRN/PERN price per tonne (£),267.73,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Steel,Tonnage of PRNs/PERNs issued,45.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Steel,Total revenue from PRNs/PERNs (£),18937.45,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Steel,Average PRN/PERN price per tonne (£),420.83,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-02,Exporter,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Aluminium,Tonnage of PRNs/PERNs issued,8753.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Aluminium,Total revenue from PRNs/PERNs (£),256722.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Aluminium,Average PRN/PERN price per tonne (£),29.33,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Glass-other,Tonnage of PRNs/PERNs issued,30734.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Glass-other,Total revenue from PRNs/PERNs (£),1755769.3,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Glass-other,Average PRN/PERN price per tonne (£),57.13,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Glass re-melt,Tonnage of PRNs/PERNs issued,106525.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Glass re-melt,Total revenue from PRNs/PERNs (£),8275281.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Glass re-melt,Average PRN/PERN price per tonne (£),77.68,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Paper and board,Tonnage of PRNs/PERNs issued,53967.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Paper and board,Total revenue from PRNs/PERNs (£),190235.75,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Paper and board,Average PRN/PERN price per tonne (£),3.53,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Plastic,Tonnage of PRNs/PERNs issued,37458.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Plastic,Total revenue from PRNs/PERNs (£),8768519.25,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Plastic,Average PRN/PERN price per tonne (£),234.09,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Steel,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Steel,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Steel,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Wood,Tonnage of PRNs/PERNs issued,26933.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Wood,Total revenue from PRNs/PERNs (£),328474.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Reprocessor,Wood,Average PRN/PERN price per tonne (£),12.2,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Aluminium,Tonnage of PRNs/PERNs issued,1000.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Aluminium,Total revenue from PRNs/PERNs (£),39865.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Aluminium,Average PRN/PERN price per tonne (£),39.87,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Glass-other,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Glass-other,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Glass-other,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Glass re-melt,Tonnage of PRNs/PERNs issued,16534.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Glass re-melt,Total revenue from PRNs/PERNs (£),1643256.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Glass re-melt,Average PRN/PERN price per tonne (£),99.39,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Paper and board,Tonnage of PRNs/PERNs issued,33019.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Paper and board,Total revenue from PRNs/PERNs (£),119713.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Paper and board,Average PRN/PERN price per tonne (£),3.63,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Plastic,Tonnage of PRNs/PERNs issued,32580.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Plastic,Total revenue from PRNs/PERNs (£),9335411.33,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Plastic,Average PRN/PERN price per tonne (£),286.54,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Steel,Tonnage of PRNs/PERNs issued,2616.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Steel,Total revenue from PRNs/PERNs (£),86518.1,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Steel,Average PRN/PERN price per tonne (£),33.07,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-03,Exporter,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Aluminium,Tonnage of PRNs/PERNs issued,4870.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Aluminium,Total revenue from PRNs/PERNs (£),267876.15,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Aluminium,Average PRN/PERN price per tonne (£),55.01,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Glass-other,Tonnage of PRNs/PERNs issued,13858.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Glass-other,Total revenue from PRNs/PERNs (£),1605893.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Glass-other,Average PRN/PERN price per tonne (£),115.88,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Glass re-melt,Tonnage of PRNs/PERNs issued,46289.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Glass re-melt,Total revenue from PRNs/PERNs (£),6492734.3,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Glass re-melt,Average PRN/PERN price per tonne (£),140.27,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Paper and board,Tonnage of PRNs/PERNs issued,147226.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Paper and board,Total revenue from PRNs/PERNs (£),610346.93,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Paper and board,Average PRN/PERN price per tonne (£),4.15,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Plastic,Tonnage of PRNs/PERNs issued,29296.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Plastic,Total revenue from PRNs/PERNs (£),8325954.33,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Plastic,Average PRN/PERN price per tonne (£),284.2,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Steel,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Steel,Total revenue from PRNs/PERNs (£),1260.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Steel,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Wood,Tonnage of PRNs/PERNs issued,23112.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Wood,Total revenue from PRNs/PERNs (£),257367.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Reprocessor,Wood,Average PRN/PERN price per tonne (£),11.14,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Aluminium,Tonnage of PRNs/PERNs issued,3439.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Aluminium,Total revenue from PRNs/PERNs (£),215301.85,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Aluminium,Average PRN/PERN price per tonne (£),62.61,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Glass-other,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Glass-other,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Glass-other,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Glass re-melt,Tonnage of PRNs/PERNs issued,9718.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Glass re-melt,Total revenue from PRNs/PERNs (£),1049451.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Glass re-melt,Average PRN/PERN price per tonne (£),107.99,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Paper and board,Tonnage of PRNs/PERNs issued,83361.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Paper and board,Total revenue from PRNs/PERNs (£),365724.65,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Paper and board,Average PRN/PERN price per tonne (£),4.39,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Plastic,Tonnage of PRNs/PERNs issued,44178.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Plastic,Total revenue from PRNs/PERNs (£),13476384.54,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Plastic,Average PRN/PERN price per tonne (£),305.05,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Steel,Tonnage of PRNs/PERNs issued,14535.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Steel,Total revenue from PRNs/PERNs (£),415749.82,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Steel,Average PRN/PERN price per tonne (£),28.6,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-04,Exporter,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Aluminium,Tonnage of PRNs/PERNs issued,2038.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Aluminium,Total revenue from PRNs/PERNs (£),137530.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Aluminium,Average PRN/PERN price per tonne (£),67.48,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Glass-other,Tonnage of PRNs/PERNs issued,18825.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Glass-other,Total revenue from PRNs/PERNs (£),1776518.25,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Glass-other,Average PRN/PERN price per tonne (£),94.37,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Glass re-melt,Tonnage of PRNs/PERNs issued,63256.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Glass re-melt,Total revenue from PRNs/PERNs (£),6647870.19,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Glass re-melt,Average PRN/PERN price per tonne (£),105.09,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Paper and board,Tonnage of PRNs/PERNs issued,114803.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Paper and board,Total revenue from PRNs/PERNs (£),627599.48,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Paper and board,Average PRN/PERN price per tonne (£),5.47,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Plastic,Tonnage of PRNs/PERNs issued,42863.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Plastic,Total revenue from PRNs/PERNs (£),13101999.15,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Plastic,Average PRN/PERN price per tonne (£),305.67,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Steel,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Steel,Total revenue from PRNs/PERNs (£),18648.4,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Steel,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Wood,Tonnage of PRNs/PERNs issued,33341.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Wood,Total revenue from PRNs/PERNs (£),347126.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Reprocessor,Wood,Average PRN/PERN price per tonne (£),10.41,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Aluminium,Tonnage of PRNs/PERNs issued,6337.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Aluminium,Total revenue from PRNs/PERNs (£),430635.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Aluminium,Average PRN/PERN price per tonne (£),67.96,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Glass-other,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Glass-other,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Glass-other,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Glass re-melt,Tonnage of PRNs/PERNs issued,16105.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Glass re-melt,Total revenue from PRNs/PERNs (£),1733260.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Glass re-melt,Average PRN/PERN price per tonne (£),107.62,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Paper and board,Tonnage of PRNs/PERNs issued,105262.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Paper and board,Total revenue from PRNs/PERNs (£),530077.99,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Paper and board,Average PRN/PERN price per tonne (£),5.04,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Plastic,Tonnage of PRNs/PERNs issued,43509.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Plastic,Total revenue from PRNs/PERNs (£),13184222.11,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Plastic,Average PRN/PERN price per tonne (£),303.02,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Steel,Tonnage of PRNs/PERNs issued,10111.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Steel,Total revenue from PRNs/PERNs (£),375513.08,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Steel,Average PRN/PERN price per tonne (£),37.14,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-05,Exporter,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Aluminium,Tonnage of PRNs/PERNs issued,5145.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Aluminium,Total revenue from PRNs/PERNs (£),365220.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Aluminium,Average PRN/PERN price per tonne (£),70.99,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Glass-other,Tonnage of PRNs/PERNs issued,17036.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Glass-other,Total revenue from PRNs/PERNs (£),1776451.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Glass-other,Average PRN/PERN price per tonne (£),104.28,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Glass re-melt,Tonnage of PRNs/PERNs issued,105239.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Glass re-melt,Total revenue from PRNs/PERNs (£),10192071.76,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Glass re-melt,Average PRN/PERN price per tonne (£),96.85,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Paper and board,Tonnage of PRNs/PERNs issued,86767.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Paper and board,Total revenue from PRNs/PERNs (£),612048.81,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Paper and board,Average PRN/PERN price per tonne (£),7.05,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Plastic,Tonnage of PRNs/PERNs issued,30982.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Plastic,Total revenue from PRNs/PERNs (£),10209682.54,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Plastic,Average PRN/PERN price per tonne (£),329.54,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Steel,Tonnage of PRNs/PERNs issued,1000.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Steel,Total revenue from PRNs/PERNs (£),42500.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Steel,Average PRN/PERN price per tonne (£),42.5,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Wood,Tonnage of PRNs/PERNs issued,32220.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Wood,Total revenue from PRNs/PERNs (£),606536.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Reprocessor,Wood,Average PRN/PERN price per tonne (£),18.82,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Aluminium,Tonnage of PRNs/PERNs issued,11315.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Aluminium,Total revenue from PRNs/PERNs (£),779935.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Aluminium,Average PRN/PERN price per tonne (£),68.93,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Glass-other,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Glass-other,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Glass-other,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Glass re-melt,Tonnage of PRNs/PERNs issued,10636.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Glass re-melt,Total revenue from PRNs/PERNs (£),1019621.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Glass re-melt,Average PRN/PERN price per tonne (£),95.87,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Paper and board,Tonnage of PRNs/PERNs issued,186242.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Paper and board,Total revenue from PRNs/PERNs (£),1161611.69,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Paper and board,Average PRN/PERN price per tonne (£),6.24,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Plastic,Tonnage of PRNs/PERNs issued,48741.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Plastic,Total revenue from PRNs/PERNs (£),16498750.18,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Plastic,Average PRN/PERN price per tonne (£),338.5,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Steel,Tonnage of PRNs/PERNs issued,13145.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Steel,Total revenue from PRNs/PERNs (£),468196.9,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Steel,Average PRN/PERN price per tonne (£),35.62,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-06,Exporter,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Aluminium,Tonnage of PRNs/PERNs issued,7928.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Aluminium,Total revenue from PRNs/PERNs (£),496026.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Aluminium,Average PRN/PERN price per tonne (£),62.57,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Glass-other,Tonnage of PRNs/PERNs issued,35883.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Glass-other,Total revenue from PRNs/PERNs (£),3254244.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Glass-other,Average PRN/PERN price per tonne (£),90.69,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Glass re-melt,Tonnage of PRNs/PERNs issued,152910.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Glass re-melt,Total revenue from PRNs/PERNs (£),14533013.42,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Glass re-melt,Average PRN/PERN price per tonne (£),95.04,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Paper and board,Tonnage of PRNs/PERNs issued,83655.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Paper and board,Total revenue from PRNs/PERNs (£),645787.84,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Paper and board,Average PRN/PERN price per tonne (£),7.72,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Plastic,Tonnage of PRNs/PERNs issued,27479.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Plastic,Total revenue from PRNs/PERNs (£),10238864.05,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Plastic,Average PRN/PERN price per tonne (£),372.61,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Steel,Tonnage of PRNs/PERNs issued,4000.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Steel,Total revenue from PRNs/PERNs (£),170000.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Steel,Average PRN/PERN price per tonne (£),42.5,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Wood,Tonnage of PRNs/PERNs issued,41949.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Wood,Total revenue from PRNs/PERNs (£),1192815.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Reprocessor,Wood,Average PRN/PERN price per tonne (£),28.43,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Aluminium,Tonnage of PRNs/PERNs issued,14077.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Aluminium,Total revenue from PRNs/PERNs (£),922669.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Aluminium,Average PRN/PERN price per tonne (£),65.54,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Glass-other,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Glass-other,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Glass-other,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Glass re-melt,Tonnage of PRNs/PERNs issued,6299.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Glass re-melt,Total revenue from PRNs/PERNs (£),587671.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Glass re-melt,Average PRN/PERN price per tonne (£),93.3,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Paper and board,Tonnage of PRNs/PERNs issued,188384.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Paper and board,Total revenue from PRNs/PERNs (£),1366069.18,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Paper and board,Average PRN/PERN price per tonne (£),7.25,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Plastic,Tonnage of PRNs/PERNs issued,60079.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Plastic,Total revenue from PRNs/PERNs (£),31446183.82,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Plastic,Average PRN/PERN price per tonne (£),523.41,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Steel,Tonnage of PRNs/PERNs issued,12871.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Steel,Total revenue from PRNs/PERNs (£),542055.5,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Steel,Average PRN/PERN price per tonne (£),42.11,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-07,Exporter,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Aluminium,Tonnage of PRNs/PERNs issued,2722.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Aluminium,Total revenue from PRNs/PERNs (£),167231.6,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Aluminium,Average PRN/PERN price per tonne (£),61.44,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Glass-other,Tonnage of PRNs/PERNs issued,28009.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Glass-other,Total revenue from PRNs/PERNs (£),2914909.42,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Glass-other,Average PRN/PERN price per tonne (£),104.07,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Glass re-melt,Tonnage of PRNs/PERNs issued,105873.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Glass re-melt,Total revenue from PRNs/PERNs (£),9790933.04,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Glass re-melt,Average PRN/PERN price per tonne (£),92.48,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Paper and board,Tonnage of PRNs/PERNs issued,81277.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Paper and board,Total revenue from PRNs/PERNs (£),726405.28,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Paper and board,Average PRN/PERN price per tonne (£),8.94,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Plastic,Tonnage of PRNs/PERNs issued,39151.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Plastic,Total revenue from PRNs/PERNs (£),16783269.24,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Plastic,Average PRN/PERN price per tonne (£),428.68,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Steel,Tonnage of PRNs/PERNs issued,20200.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Steel,Total revenue from PRNs/PERNs (£),783785.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Steel,Average PRN/PERN price per tonne (£),38.8,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Wood,Tonnage of PRNs/PERNs issued,24683.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Wood,Total revenue from PRNs/PERNs (£),1172425.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Reprocessor,Wood,Average PRN/PERN price per tonne (£),47.5,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Aluminium,Tonnage of PRNs/PERNs issued,3109.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Aluminium,Total revenue from PRNs/PERNs (£),192108.25,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Aluminium,Average PRN/PERN price per tonne (£),61.79,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Glass-other,Tonnage of PRNs/PERNs issued,45.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Glass-other,Total revenue from PRNs/PERNs (£),4185.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Glass-other,Average PRN/PERN price per tonne (£),93.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Glass re-melt,Tonnage of PRNs/PERNs issued,66.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Glass re-melt,Total revenue from PRNs/PERNs (£),6237.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Glass re-melt,Average PRN/PERN price per tonne (£),94.5,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Paper and board,Tonnage of PRNs/PERNs issued,361360.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Paper and board,Total revenue from PRNs/PERNs (£),2784219.89,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Paper and board,Average PRN/PERN price per tonne (£),7.7,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Plastic,Tonnage of PRNs/PERNs issued,40633.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Plastic,Total revenue from PRNs/PERNs (£),17532468.47,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Plastic,Average PRN/PERN price per tonne (£),431.48,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Steel,Tonnage of PRNs/PERNs issued,27033.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Steel,Total revenue from PRNs/PERNs (£),1147085.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Steel,Average PRN/PERN price per tonne (£),42.43,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-08,Exporter,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Aluminium,Tonnage of PRNs/PERNs issued,7698.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Aluminium,Total revenue from PRNs/PERNs (£),410206.76,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Aluminium,Average PRN/PERN price per tonne (£),53.29,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Glass-other,Tonnage of PRNs/PERNs issued,25523.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Glass-other,Total revenue from PRNs/PERNs (£),2265568.3,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Glass-other,Average PRN/PERN price per tonne (£),88.77,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Glass re-melt,Tonnage of PRNs/PERNs issued,70477.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Glass re-melt,Total revenue from PRNs/PERNs (£),6864559.7,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Glass re-melt,Average PRN/PERN price per tonne (£),97.4,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Paper and board,Tonnage of PRNs/PERNs issued,80930.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Paper and board,Total revenue from PRNs/PERNs (£),626217.35,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Paper and board,Average PRN/PERN price per tonne (£),7.74,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Plastic,Tonnage of PRNs/PERNs issued,32249.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Plastic,Total revenue from PRNs/PERNs (£),16977792.04,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Plastic,Average PRN/PERN price per tonne (£),526.46,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Steel,Tonnage of PRNs/PERNs issued,2453.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Steel,Total revenue from PRNs/PERNs (£),173413.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Steel,Average PRN/PERN price per tonne (£),70.69,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Wood,Tonnage of PRNs/PERNs issued,9496.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Wood,Total revenue from PRNs/PERNs (£),493272.67,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Reprocessor,Wood,Average PRN/PERN price per tonne (£),51.95,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Aluminium,Tonnage of PRNs/PERNs issued,10193.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Aluminium,Total revenue from PRNs/PERNs (£),714884.7,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Aluminium,Average PRN/PERN price per tonne (£),70.13,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Glass-other,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Glass-other,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Glass-other,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Glass re-melt,Tonnage of PRNs/PERNs issued,49742.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Glass re-melt,Total revenue from PRNs/PERNs (£),5066943.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Glass re-melt,Average PRN/PERN price per tonne (£),101.86,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Paper and board,Tonnage of PRNs/PERNs issued,148448.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Paper and board,Total revenue from PRNs/PERNs (£),1148791.73,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Paper and board,Average PRN/PERN price per tonne (£),7.74,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Plastic,Tonnage of PRNs/PERNs issued,54495.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Plastic,Total revenue from PRNs/PERNs (£),47754137.58,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Plastic,Average PRN/PERN price per tonne (£),876.3,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Steel,Tonnage of PRNs/PERNs issued,16087.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Steel,Total revenue from PRNs/PERNs (£),847562.3,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Steel,Average PRN/PERN price per tonne (£),52.69,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Wood,Tonnage of PRNs/PERNs issued,0.0,tonnes,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Wood,Total revenue from PRNs/PERNs (£),0.0,GBP,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx
+2026-09,Exporter,Wood,Average PRN/PERN price per tonne (£),0.0,GBP per tonne,21_Oct_26_UK_Accredited_Packaging_Waste_Monthly_Aggregated_Data.xlsx

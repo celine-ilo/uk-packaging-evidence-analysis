@@ -1,0 +1,29 @@
+registration_year,producer_group,material,row_kind,value,unit,source_file,material_canonical,unit_kind
+2023,Allocation producers,Paper,Material,23763.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Non allocation producers,Paper,Material,3566307.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Allocation producers,Glass,Material,3155.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Non allocation producers,Glass,Material,1811925.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Allocation producers,Aluminium,Material,168.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Non allocation producers,Aluminium,Material,148889.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Allocation producers,Steel,Material,775.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Non allocation producers,Steel,Material,375575.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Allocation producers,Plastic,Material,1683.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Non allocation producers,Plastic,Material,1157176.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Allocation producers,Wood,Material,2454.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Non allocation producers,Wood,Material,365891.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Allocation producers,Total,Total,31998.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Non allocation producers,Total,Total,7425763.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Allocation producers,Paper,Material,19400.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Non allocation producers,Paper,Material,3471002.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Allocation producers,Glass,Material,3326.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Non allocation producers,Glass,Material,1715163.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Allocation producers,Aluminium,Material,0.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Non allocation producers,Aluminium,Material,151281.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Allocation producers,Steel,Material,796.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Non allocation producers,Steel,Material,361172.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Allocation producers,Plastic,Material,1674.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Non allocation producers,Plastic,Material,1128347.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Allocation producers,Wood,Material,1890.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Non allocation producers,Wood,Material,432389.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Allocation producers,Total,Total,27086.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Non allocation producers,Total,Total,7259354.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes

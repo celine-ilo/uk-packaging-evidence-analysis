@@ -1,0 +1,141 @@
+year,quarter,stream,material_or_process,size,company_name,accreditation_number,source_file
+2023,Q1,Reprocessor,Plastic,S,Bonar Yarns Ltd,SR232020108,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Exporter,Paper/board,L,Cycle Link (UK) Limited,EX232009213,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Exporter,Aluminium,L,N+P Crayford MRF Limited,EX232023127,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Exporter,Plastic,S,ECO A Ltd,EX232021162,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q1,Exporter,Plastic,S,Ekorix Ltd,EX232020180,24_03_28_Rpt_(2023_Q1_Recycling_Summary).xls
+2023,Q2,Reprocessor,Plastic,S,Bonar Yarns Ltd,SR232020108,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Reprocessor,Plastic,L,Complete Plastics Recycling Ltd,ER232023148,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Reprocessor,Plastic,L,Talos Recycling Ltd,ER232022120,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Exporter,Paper/board,L,Cycle Link (UK) Limited,EX232009213,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Exporter,Aluminium,L,N+P Crayford MRF Limited,EX232023127,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Exporter,Plastic,L,Northfield Consulting Ltd,NX232022104,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Exporter,Plastic,S,ECO A Ltd,EX232021162,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Exporter,Plastic,S,Ekorix Ltd,EX232020180,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q2,Exporter,Plastic,L,Meridianplas Ltd,NX232022105,24_03_28_Rpt_(2023_Q2_Recycling_Summary).xls
+2023,Q3,Reprocessor,Plastic,S,Bonar Yarns Ltd,SR232020108,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Reprocessor,Plastic,L,Talos Recycling Ltd,ER232022120,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Paper/board,L,Cycle Link (UK) Limited,EX232009213,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Paper/board,S,HF Recycle Ltd,EX232023153,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Paper/board,L,Intec Future Solutions Ltd,EX232020213,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Aluminium,L,N+P Crayford MRF Limited,EX232023127,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Plastic,L,Northfield Consulting Ltd,NX232022104,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Plastic,L,Plastic Network Ltd,EX232021115,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Plastic,L,SAFI TECHNOLOGIES LTD,EX232023126,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Plastic,L,Intec Future Solutions Ltd,EX232020214,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Plastic,L,Meridianplas Ltd,NX232022105,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Plastic,S,ECO A Ltd,EX232021162,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q3,Exporter,Plastic,S,Ekorix Ltd,EX232020180,24_03_28_Rpt_(2023_Q3_Recycling_Summary).xls
+2023,Q4,Reprocessor,Paper/board,S,Oso Fiber UK Ltd,ER232023150,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Reprocessor,Plastic,L,Talos Recycling Ltd,ER232022120,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Reprocessor,Plastic,S,Bonar Yarns Ltd,SR232020108,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Paper/board,L,Cycle Link (UK) Limited,EX232009213,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Paper/board,S,HF Recycle Ltd,EX232023153,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Paper/board,L,Intec Future Solutions Ltd,EX232020213,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,L,Intec Future Solutions Ltd,EX232020214,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,L,Meridianplas Ltd,NX232022105,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,S,New Earth Solutions (West) Ltd,EX232020199,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,L,Northfield Consulting Ltd,NX232022104,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,S,ECO A Ltd,EX232021162,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,S,Ekorix Ltd,EX232020180,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,S,Green Plastics Ltd,EX232021106,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,S,TRI-R Ltd,WX232023705,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,L,Van Werven (NI) Ltd,NX232017105,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,L,Plastic Network Ltd,EX232021115,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2023,Q4,Exporter,Plastic,S,360 Plastics Ltd,EX232023172,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls
+2024,Q1,Reprocessor,Plastic,L,5 Star Plastics Ltd,ER242024114,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Reprocessor,Plastic,S,Oak Bank Solutions Ltd (DARTFORD),ER242022131,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Exporter,Aluminium,S,Trugreen Solutions Ltd,WX242022704,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Exporter,Aluminium,L,Vipa Lausanne SA,EX242019113,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Exporter,Aluminium,L,City Metals Recycling Ltd,EX242019136,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q1,Exporter,Plastic,S,Boost Recycling Ltd,EX242016141,25_03_27_Rpt_(2024_Q1_Recycling_Summary).xls
+2024,Q2,Reprocessor,Plastic,L,5 Star Plastics Ltd,ER242024114,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Reprocessor,Plastic,S,Oak Bank Solutions Ltd (DARTFORD),ER242022131,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Exporter,Aluminium,S,Trugreen Solutions Ltd,WX242022704,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Exporter,Aluminium,L,Vipa Lausanne SA,EX242019113,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q2,Exporter,Plastic,S,Trugreen Solutions Ltd,WX242022705,25_03_27_Rpt_(2024_Q2_Recycling_Summary).xls
+2024,Q3,Reprocessor,Plastic,L,5 Star Plastics Ltd,ER242024114,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Reprocessor,Plastic,S,Oak Bank Solutions Ltd (DARTFORD),ER242022131,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Reprocessor,Plastic,L,QC Polymer Ltd,ER242022136,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Reprocessor,Wood,L,Mistral Renewable Energy Ltd,ER242020119,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Exporter,Aluminium,S,Oak Bank Solutions Ltd,EX242020237,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Exporter,Aluminium,S,Midlands Waste Ltd,EX242023173,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Exporter,Aluminium,S,Trugreen Solutions Ltd,WX242022704,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Exporter,Plastic,S,Trugreen Solutions Ltd,WX242022705,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q3,Exporter,Plastic,S,Oak Bank Solutions Ltd,EX242020238,25_03_27_Rpt_(2024_Q3_Recycling_Summary).xls
+2024,Q4,Reprocessor,Glass Other,L,T&J Recycling T/A Barrett Recycling,NR242016102,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Reprocessor,Plastic,S,Concept Plastic Packaging Ltd,ER242020211,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Reprocessor,Plastic,L,Extrusion & Moulding Compounds Ltd,WR242017705,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Reprocessor,Plastic,L,5 Star Plastics Ltd,ER242024114,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Reprocessor,Plastic,S,Axion Polymers Ltd,ER242019177,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Reprocessor,Plastic,S,Marlin Industries Scotland Limited,SR242019106,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Reprocessor,Plastic,S,Oak Bank Solutions Ltd (DARTFORD),ER242022131,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Reprocessor,Plastic,L,QC Polymer Ltd,ER242022136,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Reprocessor,Plastic,S,Sharpak Bridgwater Ltd,ER242020255,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Paper/board,S,Sam Magnet UK Ltd,EX242019133,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Paper/board,L,Vanden Recycling Ltd,NX242016101,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Paper/board,L,Volker Gruppe Limited,NX242019103,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Glass Re-melt,L,Northern Trading (Cumbria) Ltd,EX242022127,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Aluminium,S,Oak Bank Solutions Ltd,EX242020237,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Aluminium,S,Sam Magnet UK Ltd,EX242018122,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Aluminium,S,Midlands Waste Ltd,EX242023173,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Aluminium,L,Leinster Environmentals (UK) Limited,NX242019107,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Aluminium,S,Trugreen Solutions Ltd,WX242022704,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Aluminium,L,Unimetals Recycling (UK) Limited,EX24200127,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Aluminium,L,Vanden Recycling Ltd,NX242018102,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Steel,S,Sam Magnet UK Ltd,EX242019134,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Plastic,S,Oak Bank Solutions Ltd,EX242020238,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Plastic,S,SAICA Natur UK Ltd,EX242024140,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Plastic,L,Lets Recycle It Limited,NX242016105,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Plastic,L,Cargopack Ltd,EX242023184,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Plastic,S,Trugreen Solutions Ltd,WX242022705,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Plastic,L,Volker Gruppe Limited,NX242015101,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Plastic,S,WRC Recycling,SX242013113,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2024,Q4,Exporter,Plastic,L,Vanden Recycling Ltd,NX242012102,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls
+2025,Q1,Reprocessor,Steel,L,7 Steel Manufacturing (UK) Limited,WR252004452,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Reprocessor,Plastic,L,Duclo Recycling Ltd,ER252023157,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Reprocessor,Plastic,L,Y S Reclamation Ltd,ER252018104,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Exporter,Plastic,S,Egino Ltd,WX252025702,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Exporter,Plastic,S,Recycle Force Ltd,EX252023166,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Exporter,Plastic,S,Boomerang Recycling Limited,WX252024704,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q1,Exporter,Plastic,S,Duclo Recycling Ltd,EX252024130,26_03_25_Rpt_(2025_Q1_Recycling_Summary).xls
+2025,Q2,Reprocessor,Plastic,L,Duclo Recycling Ltd,ER252023157,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Reprocessor,Plastic,L,Recover Blaenavon Limited,WR252023701,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Reprocessor,Plastic,L,Y S Reclamation Ltd,ER252018104,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Exporter,Plastic,S,Recycle Force Ltd,EX252023166,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Exporter,Plastic,S,Egino Ltd,WX252025702,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Exporter,Plastic,S,Boomerang Recycling Limited,WX252024704,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q2,Exporter,Plastic,S,Duclo Recycling Ltd,EX252024130,26_03_25_Rpt_(2025_Q2_Recycling_Summary).xls
+2025,Q3,Reprocessor,Plastic,L,Duclo Recycling Ltd,ER252023157,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Reprocessor,Plastic,L,Recover Blaenavon Limited,WR252023701,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Reprocessor,Plastic,S,Skymark Packaging International (Scunthorpe),ER252018103,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Reprocessor,Plastic,L,Y S Reclamation Ltd,ER252018104,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Reprocessor,Wood,L,Giffords Recycling Ltd,ER252024120,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Exporter,Paper/board,S,Polo Polymer Ltd,EX252021109,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Exporter,Plastic,S,Recycle Force Ltd,EX252023166,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Exporter,Plastic,S,Egino Ltd,WX252025702,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Exporter,Plastic,S,Boomerang Recycling Limited,WX252024704,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q3,Exporter,Plastic,S,Duclo Recycling Ltd,EX252024130,26_03_25_Rpt_(2025_Q3_Recycling_Summary).xls
+2025,Q4,Reprocessor,Glass Other,L,Re-Gen Waste Limited,NR252025101,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Reprocessor,Plastic,S,Skymark Packaging International (Scunthorpe),ER252018103,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Reprocessor,Plastic,L,Y S Reclamation Ltd,ER252018104,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Reprocessor,Plastic,L,Recover Blaenavon Limited,WR252023701,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Reprocessor,Plastic,S,Bailey Waste Recycling (NI) Limited,NR252023122,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Reprocessor,Plastic,L,Duclo Recycling Ltd,ER252023157,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Reprocessor,Wood,L,Giffords Recycling Ltd,ER252024120,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Paper/board,S,International Recovered Paper Ltd,EX25200211,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Paper/board,S,Polo Polymer Ltd,EX252021109,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Paper/board,L,Bailey Waste Recycling (NI) Limited,NX252017104,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Paper/board,L,Agnail UK Ltd,NX252023106,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Aluminium,L,Agnail UK Ltd,NX252023107,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Aluminium,L,Bailey Waste Recycling (NI) Limited,NX252020112,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Aluminium,S,Exim Routes UK Ltd,EX252025136,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Steel,L,London Scrap Terminal Ltd,EX252025121,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Plastic,S,LS & Dan International Ltd,EX252023109,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Plastic,L,IFCO Systems UK Ltd,EX252025138,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Plastic,S,Egino Ltd,WX252025702,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Plastic,L,Agnail UK Ltd,NX252023108,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Plastic,L,Bailey Waste Recycling (NI) Limited,NX252015104,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Plastic,S,Boomerang Recycling Limited,WX252024704,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Plastic,S,Duclo Recycling Ltd,EX252024130,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls
+2025,Q4,Exporter,Plastic,S,Recycle Force Ltd,EX252023166,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls

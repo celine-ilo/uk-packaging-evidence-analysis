@@ -1,0 +1,277 @@
+check,key,computed,stated,difference,passes
+first snapshot + increments = final,2023 Aluminium,161658.0,161658.0,0.0,yes
+first snapshot + increments = final,2023 Glass other,450963.0,450963.0,0.0,yes
+first snapshot + increments = final,2023 Glass re-melt,1367130.0,1367130.0,0.0,yes
+first snapshot + increments = final,2023 Paper and board,3980214.0,3980214.0,0.0,yes
+first snapshot + increments = final,2023 Plastic,1186160.0,1186160.0,0.0,yes
+first snapshot + increments = final,2023 Steel,389100.0,389100.0,0.0,yes
+first snapshot + increments = final,2023 Wood,667627.0,667627.0,0.0,yes
+first snapshot + increments = final,2024 Aluminium,156824.0,156824.0,0.0,yes
+first snapshot + increments = final,2024 Glass other,427883.0,427883.0,0.0,yes
+first snapshot + increments = final,2024 Glass re-melt,1331522.0,1331522.0,0.0,yes
+first snapshot + increments = final,2024 Paper and board,4068580.0,4068580.0,0.0,yes
+first snapshot + increments = final,2024 Plastic,1157919.0,1157919.0,0.0,yes
+first snapshot + increments = final,2024 Steel,379398.0,379398.0,0.0,yes
+first snapshot + increments = final,2024 Wood,634454.0,634454.0,0.0,yes
+first snapshot + increments = final,2025 Aluminium,150151.0,150151.0,0.0,yes
+first snapshot + increments = final,2025 Glass other,361600.0,361600.0,0.0,yes
+first snapshot + increments = final,2025 Glass re-melt,1269753.0,1269753.0,0.0,yes
+first snapshot + increments = final,2025 Paper and board,3894405.0,3894405.0,0.0,yes
+first snapshot + increments = final,2025 Plastic,1206585.0,1206585.0,0.0,yes
+first snapshot + increments = final,2025 Steel,370570.0,370570.0,0.0,yes
+first snapshot + increments = final,2025 Wood,540979.0,540979.0,0.0,yes
+cumulative never decreases,2023 Aluminium 2023-02-10->2023-03-10,22809.0,8526.0,14283.0,yes
+cumulative never decreases,2023 Aluminium 2023-03-10->2023-04-11,33212.0,22809.0,10403.0,yes
+cumulative never decreases,2023 Aluminium 2023-04-11->2023-05-10,47123.0,33212.0,13911.0,yes
+cumulative never decreases,2023 Aluminium 2023-05-10->2023-06-09,60621.0,47123.0,13498.0,yes
+cumulative never decreases,2023 Aluminium 2023-06-09->2023-07-10,75001.0,60621.0,14380.0,yes
+cumulative never decreases,2023 Aluminium 2023-07-10->2023-08-10,89975.0,75001.0,14974.0,yes
+cumulative never decreases,2023 Aluminium 2023-08-10->2023-09-11,102970.0,89975.0,12995.0,yes
+cumulative never decreases,2023 Aluminium 2023-09-11->2023-10-10,118956.0,102970.0,15986.0,yes
+cumulative never decreases,2023 Aluminium 2023-10-10->2023-11-10,135715.0,118956.0,16759.0,yes
+cumulative never decreases,2023 Aluminium 2023-11-10->2023-12-11,146885.0,135715.0,11170.0,yes
+cumulative never decreases,2023 Aluminium 2023-12-11->2024-01-10,160216.0,146885.0,13331.0,yes
+cumulative never decreases,2023 Aluminium 2024-01-10->2024-02-09,161658.0,160216.0,1442.0,yes
+cumulative never decreases,2023 Glass other 2023-02-10->2023-03-10,68833.0,26096.0,42737.0,yes
+cumulative never decreases,2023 Glass other 2023-03-10->2023-04-11,102727.0,68833.0,33894.0,yes
+cumulative never decreases,2023 Glass other 2023-04-11->2023-05-10,129376.0,102727.0,26649.0,yes
+cumulative never decreases,2023 Glass other 2023-05-10->2023-06-09,168532.0,129376.0,39156.0,yes
+cumulative never decreases,2023 Glass other 2023-06-09->2023-07-10,226945.0,168532.0,58413.0,yes
+cumulative never decreases,2023 Glass other 2023-07-10->2023-08-10,259051.0,226945.0,32106.0,yes
+cumulative never decreases,2023 Glass other 2023-08-10->2023-09-11,294396.0,259051.0,35345.0,yes
+cumulative never decreases,2023 Glass other 2023-09-11->2023-10-10,317760.0,294396.0,23364.0,yes
+cumulative never decreases,2023 Glass other 2023-10-10->2023-11-10,377921.0,317760.0,60161.0,yes
+cumulative never decreases,2023 Glass other 2023-11-10->2023-12-11,410801.0,377921.0,32880.0,yes
+cumulative never decreases,2023 Glass other 2023-12-11->2024-01-10,446665.0,410801.0,35864.0,yes
+cumulative never decreases,2023 Glass other 2024-01-10->2024-02-09,450963.0,446665.0,4298.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-02-10->2023-03-10,189581.0,81120.0,108461.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-03-10->2023-04-11,289877.0,189581.0,100296.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-04-11->2023-05-10,394267.0,289877.0,104390.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-05-10->2023-06-09,501811.0,394267.0,107544.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-06-09->2023-07-10,639938.0,501811.0,138127.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-07-10->2023-08-10,755664.0,639938.0,115726.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-08-10->2023-09-11,864669.0,755664.0,109005.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-09-11->2023-10-10,994798.0,864669.0,130129.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-10-10->2023-11-10,1133003.0,994798.0,138205.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-11-10->2023-12-11,1216132.0,1133003.0,83129.0,yes
+cumulative never decreases,2023 Glass re-melt 2023-12-11->2024-01-10,1343950.0,1216132.0,127818.0,yes
+cumulative never decreases,2023 Glass re-melt 2024-01-10->2024-02-09,1367130.0,1343950.0,23180.0,yes
+cumulative never decreases,2023 Paper and board 2023-02-10->2023-03-10,593165.0,257921.0,335244.0,yes
+cumulative never decreases,2023 Paper and board 2023-03-10->2023-04-11,882968.0,593165.0,289803.0,yes
+cumulative never decreases,2023 Paper and board 2023-04-11->2023-05-10,1292885.0,882968.0,409917.0,yes
+cumulative never decreases,2023 Paper and board 2023-05-10->2023-06-09,1589874.0,1292885.0,296989.0,yes
+cumulative never decreases,2023 Paper and board 2023-06-09->2023-07-10,1937033.0,1589874.0,347159.0,yes
+cumulative never decreases,2023 Paper and board 2023-07-10->2023-08-10,2288257.0,1937033.0,351224.0,yes
+cumulative never decreases,2023 Paper and board 2023-08-10->2023-09-11,2591234.0,2288257.0,302977.0,yes
+cumulative never decreases,2023 Paper and board 2023-09-11->2023-10-10,2922792.0,2591234.0,331558.0,yes
+cumulative never decreases,2023 Paper and board 2023-10-10->2023-11-10,3267587.0,2922792.0,344795.0,yes
+cumulative never decreases,2023 Paper and board 2023-11-10->2023-12-11,3602453.0,3267587.0,334866.0,yes
+cumulative never decreases,2023 Paper and board 2023-12-11->2024-01-10,3925826.0,3602453.0,323373.0,yes
+cumulative never decreases,2023 Paper and board 2024-01-10->2024-02-09,3980214.0,3925826.0,54388.0,yes
+cumulative never decreases,2023 Plastic 2023-02-10->2023-03-10,140208.0,52425.0,87783.0,yes
+cumulative never decreases,2023 Plastic 2023-03-10->2023-04-11,231184.0,140208.0,90976.0,yes
+cumulative never decreases,2023 Plastic 2023-04-11->2023-05-10,362537.0,231184.0,131353.0,yes
+cumulative never decreases,2023 Plastic 2023-05-10->2023-06-09,458043.0,362537.0,95506.0,yes
+cumulative never decreases,2023 Plastic 2023-06-09->2023-07-10,543820.0,458043.0,85777.0,yes
+cumulative never decreases,2023 Plastic 2023-07-10->2023-08-10,672019.0,543820.0,128199.0,yes
+cumulative never decreases,2023 Plastic 2023-08-10->2023-09-11,766750.0,672019.0,94731.0,yes
+cumulative never decreases,2023 Plastic 2023-09-11->2023-10-10,869281.0,766750.0,102531.0,yes
+cumulative never decreases,2023 Plastic 2023-10-10->2023-11-10,996351.0,869281.0,127070.0,yes
+cumulative never decreases,2023 Plastic 2023-11-10->2023-12-11,1093966.0,996351.0,97615.0,yes
+cumulative never decreases,2023 Plastic 2023-12-11->2024-01-10,1172002.0,1093966.0,78036.0,yes
+cumulative never decreases,2023 Plastic 2024-01-10->2024-02-09,1186160.0,1172002.0,14158.0,yes
+cumulative never decreases,2023 Steel 2023-02-10->2023-03-10,27824.0,7305.0,20519.0,yes
+cumulative never decreases,2023 Steel 2023-03-10->2023-04-11,61220.0,27824.0,33396.0,yes
+cumulative never decreases,2023 Steel 2023-04-11->2023-05-10,127359.0,61220.0,66139.0,yes
+cumulative never decreases,2023 Steel 2023-05-10->2023-06-09,161535.0,127359.0,34176.0,yes
+cumulative never decreases,2023 Steel 2023-06-09->2023-07-10,197706.0,161535.0,36171.0,yes
+cumulative never decreases,2023 Steel 2023-07-10->2023-08-10,234421.0,197706.0,36715.0,yes
+cumulative never decreases,2023 Steel 2023-08-10->2023-09-11,253964.0,234421.0,19543.0,yes
+cumulative never decreases,2023 Steel 2023-09-11->2023-10-10,289111.0,253964.0,35147.0,yes
+cumulative never decreases,2023 Steel 2023-10-10->2023-11-10,315797.0,289111.0,26686.0,yes
+cumulative never decreases,2023 Steel 2023-11-10->2023-12-11,347381.0,315797.0,31584.0,yes
+cumulative never decreases,2023 Steel 2023-12-11->2024-01-10,373053.0,347381.0,25672.0,yes
+cumulative never decreases,2023 Steel 2024-01-10->2024-02-09,389100.0,373053.0,16047.0,yes
+cumulative never decreases,2023 Wood 2023-02-10->2023-03-10,58301.0,13847.0,44454.0,yes
+cumulative never decreases,2023 Wood 2023-03-10->2023-04-11,92855.0,58301.0,34554.0,yes
+cumulative never decreases,2023 Wood 2023-04-11->2023-05-10,198877.0,92855.0,106022.0,yes
+cumulative never decreases,2023 Wood 2023-05-10->2023-06-09,237617.0,198877.0,38740.0,yes
+cumulative never decreases,2023 Wood 2023-06-09->2023-07-10,283514.0,237617.0,45897.0,yes
+cumulative never decreases,2023 Wood 2023-07-10->2023-08-10,365692.0,283514.0,82178.0,yes
+cumulative never decreases,2023 Wood 2023-08-10->2023-09-11,396524.0,365692.0,30832.0,yes
+cumulative never decreases,2023 Wood 2023-09-11->2023-10-10,441057.0,396524.0,44533.0,yes
+cumulative never decreases,2023 Wood 2023-10-10->2023-11-10,530973.0,441057.0,89916.0,yes
+cumulative never decreases,2023 Wood 2023-11-10->2023-12-11,572994.0,530973.0,42021.0,yes
+cumulative never decreases,2023 Wood 2023-12-11->2024-01-10,632354.0,572994.0,59360.0,yes
+cumulative never decreases,2023 Wood 2024-01-10->2024-02-09,667627.0,632354.0,35273.0,yes
+cumulative never decreases,2024 Aluminium 2024-02-09->2024-03-11,19974.0,6965.0,13009.0,yes
+cumulative never decreases,2024 Aluminium 2024-03-11->2024-04-10,29640.0,19974.0,9666.0,yes
+cumulative never decreases,2024 Aluminium 2024-04-10->2024-05-10,44568.0,29640.0,14928.0,yes
+cumulative never decreases,2024 Aluminium 2024-05-10->2024-06-10,60000.0,44568.0,15432.0,yes
+cumulative never decreases,2024 Aluminium 2024-06-10->2024-07-10,72304.0,60000.0,12304.0,yes
+cumulative never decreases,2024 Aluminium 2024-07-10->2024-08-12,87663.0,72304.0,15359.0,yes
+cumulative never decreases,2024 Aluminium 2024-08-12->2024-09-10,101039.0,87663.0,13376.0,yes
+cumulative never decreases,2024 Aluminium 2024-09-10->2024-10-10,117274.0,101039.0,16235.0,yes
+cumulative never decreases,2024 Aluminium 2024-10-10->2024-11-11,130802.0,117274.0,13528.0,yes
+cumulative never decreases,2024 Aluminium 2024-11-11->2024-12-10,142239.0,130802.0,11437.0,yes
+cumulative never decreases,2024 Aluminium 2024-12-10->2025-01-10,154413.0,142239.0,12174.0,yes
+cumulative never decreases,2024 Aluminium 2025-01-10->2025-02-12,156824.0,154413.0,2411.0,yes
+cumulative never decreases,2024 Glass other 2024-02-09->2024-03-11,64201.0,19374.0,44827.0,yes
+cumulative never decreases,2024 Glass other 2024-03-11->2024-04-10,107268.0,64201.0,43067.0,yes
+cumulative never decreases,2024 Glass other 2024-04-10->2024-05-10,150738.0,107268.0,43470.0,yes
+cumulative never decreases,2024 Glass other 2024-05-10->2024-06-10,195964.0,150738.0,45226.0,yes
+cumulative never decreases,2024 Glass other 2024-06-10->2024-07-10,235704.0,195964.0,39740.0,yes
+cumulative never decreases,2024 Glass other 2024-07-10->2024-08-12,278880.0,235704.0,43176.0,yes
+cumulative never decreases,2024 Glass other 2024-08-12->2024-09-10,311087.0,278880.0,32207.0,yes
+cumulative never decreases,2024 Glass other 2024-09-10->2024-10-10,338142.0,311087.0,27055.0,yes
+cumulative never decreases,2024 Glass other 2024-10-10->2024-11-11,367203.0,338142.0,29061.0,yes
+cumulative never decreases,2024 Glass other 2024-11-11->2024-12-10,389311.0,367203.0,22108.0,yes
+cumulative never decreases,2024 Glass other 2024-12-10->2025-01-10,424794.0,389311.0,35483.0,yes
+cumulative never decreases,2024 Glass other 2025-01-10->2025-02-12,427883.0,424794.0,3089.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-02-09->2024-03-11,176891.0,42326.0,134565.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-03-11->2024-04-10,275726.0,176891.0,98835.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-04-10->2024-05-10,390043.0,275726.0,114317.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-05-10->2024-06-10,480042.0,390043.0,89999.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-06-10->2024-07-10,621857.0,480042.0,141815.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-07-10->2024-08-12,748523.0,621857.0,126666.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-08-12->2024-09-10,865257.0,748523.0,116734.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-09-10->2024-10-10,969150.0,865257.0,103893.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-10-10->2024-11-11,1086721.0,969150.0,117571.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-11-11->2024-12-10,1202548.0,1086721.0,115827.0,yes
+cumulative never decreases,2024 Glass re-melt 2024-12-10->2025-01-10,1312992.0,1202548.0,110444.0,yes
+cumulative never decreases,2024 Glass re-melt 2025-01-10->2025-02-12,1331522.0,1312992.0,18530.0,yes
+cumulative never decreases,2024 Paper and board 2024-02-09->2024-03-11,573297.0,229629.0,343668.0,yes
+cumulative never decreases,2024 Paper and board 2024-03-11->2024-04-10,966134.0,573297.0,392837.0,yes
+cumulative never decreases,2024 Paper and board 2024-04-10->2024-05-10,1311339.0,966134.0,345205.0,yes
+cumulative never decreases,2024 Paper and board 2024-05-10->2024-06-10,1566924.0,1311339.0,255585.0,yes
+cumulative never decreases,2024 Paper and board 2024-06-10->2024-07-10,1916010.0,1566924.0,349086.0,yes
+cumulative never decreases,2024 Paper and board 2024-07-10->2024-08-12,2233724.0,1916010.0,317714.0,yes
+cumulative never decreases,2024 Paper and board 2024-08-12->2024-09-10,2582641.0,2233724.0,348917.0,yes
+cumulative never decreases,2024 Paper and board 2024-09-10->2024-10-10,2924538.0,2582641.0,341897.0,yes
+cumulative never decreases,2024 Paper and board 2024-10-10->2024-11-11,3218150.0,2924538.0,293612.0,yes
+cumulative never decreases,2024 Paper and board 2024-11-11->2024-12-10,3569771.0,3218150.0,351621.0,yes
+cumulative never decreases,2024 Paper and board 2024-12-10->2025-01-10,3925662.0,3569771.0,355891.0,yes
+cumulative never decreases,2024 Paper and board 2025-01-10->2025-02-12,4068580.0,3925662.0,142918.0,yes
+cumulative never decreases,2024 Plastic 2024-02-09->2024-03-11,176259.0,75078.0,101181.0,yes
+cumulative never decreases,2024 Plastic 2024-03-11->2024-04-10,285310.0,176259.0,109051.0,yes
+cumulative never decreases,2024 Plastic 2024-04-10->2024-05-10,391840.0,285310.0,106530.0,yes
+cumulative never decreases,2024 Plastic 2024-05-10->2024-06-10,480161.0,391840.0,88321.0,yes
+cumulative never decreases,2024 Plastic 2024-06-10->2024-07-10,585529.0,480161.0,105368.0,yes
+cumulative never decreases,2024 Plastic 2024-07-10->2024-08-12,694203.0,585529.0,108674.0,yes
+cumulative never decreases,2024 Plastic 2024-08-12->2024-09-10,765820.0,694203.0,71617.0,yes
+cumulative never decreases,2024 Plastic 2024-09-10->2024-10-10,877885.0,765820.0,112065.0,yes
+cumulative never decreases,2024 Plastic 2024-10-10->2024-11-11,970141.0,877885.0,92256.0,yes
+cumulative never decreases,2024 Plastic 2024-11-11->2024-12-10,1054615.0,970141.0,84474.0,yes
+cumulative never decreases,2024 Plastic 2024-12-10->2025-01-10,1132125.0,1054615.0,77510.0,yes
+cumulative never decreases,2024 Plastic 2025-01-10->2025-02-12,1157919.0,1132125.0,25794.0,yes
+cumulative never decreases,2024 Steel 2024-02-09->2024-03-11,50375.0,13687.0,36688.0,yes
+cumulative never decreases,2024 Steel 2024-03-11->2024-04-10,88630.0,50375.0,38255.0,yes
+cumulative never decreases,2024 Steel 2024-04-10->2024-05-10,128758.0,88630.0,40128.0,yes
+cumulative never decreases,2024 Steel 2024-05-10->2024-06-10,144882.0,128758.0,16124.0,yes
+cumulative never decreases,2024 Steel 2024-06-10->2024-07-10,191677.0,144882.0,46795.0,yes
+cumulative never decreases,2024 Steel 2024-07-10->2024-08-12,218615.0,191677.0,26938.0,yes
+cumulative never decreases,2024 Steel 2024-08-12->2024-09-10,239506.0,218615.0,20891.0,yes
+cumulative never decreases,2024 Steel 2024-09-10->2024-10-10,268352.0,239506.0,28846.0,yes
+cumulative never decreases,2024 Steel 2024-10-10->2024-11-11,298583.0,268352.0,30231.0,yes
+cumulative never decreases,2024 Steel 2024-11-11->2024-12-10,322886.0,298583.0,24303.0,yes
+cumulative never decreases,2024 Steel 2024-12-10->2025-01-10,345086.0,322886.0,22200.0,yes
+cumulative never decreases,2024 Steel 2025-01-10->2025-02-12,379398.0,345086.0,34312.0,yes
+cumulative never decreases,2024 Wood 2024-02-09->2024-03-11,51882.0,14709.0,37173.0,yes
+cumulative never decreases,2024 Wood 2024-03-11->2024-04-10,94696.0,51882.0,42814.0,yes
+cumulative never decreases,2024 Wood 2024-04-10->2024-05-10,176421.0,94696.0,81725.0,yes
+cumulative never decreases,2024 Wood 2024-05-10->2024-06-10,203715.0,176421.0,27294.0,yes
+cumulative never decreases,2024 Wood 2024-06-10->2024-07-10,256527.0,203715.0,52812.0,yes
+cumulative never decreases,2024 Wood 2024-07-10->2024-08-12,343789.0,256527.0,87262.0,yes
+cumulative never decreases,2024 Wood 2024-08-12->2024-09-10,373964.0,343789.0,30175.0,yes
+cumulative never decreases,2024 Wood 2024-09-10->2024-10-10,410233.0,373964.0,36269.0,yes
+cumulative never decreases,2024 Wood 2024-10-10->2024-11-11,494122.0,410233.0,83889.0,yes
+cumulative never decreases,2024 Wood 2024-11-11->2024-12-10,532399.0,494122.0,38277.0,yes
+cumulative never decreases,2024 Wood 2024-12-10->2025-01-10,604837.0,532399.0,72438.0,yes
+cumulative never decreases,2024 Wood 2025-01-10->2025-02-12,634454.0,604837.0,29617.0,yes
+cumulative never decreases,2025 Aluminium 2025-02-10->2025-03-10,14824.0,2397.0,12427.0,yes
+cumulative never decreases,2025 Aluminium 2025-03-10->2025-04-10,31275.0,14824.0,16451.0,yes
+cumulative never decreases,2025 Aluminium 2025-04-10->2025-05-09,44388.0,31275.0,13113.0,yes
+cumulative never decreases,2025 Aluminium 2025-05-09->2025-06-10,55712.0,44388.0,11324.0,yes
+cumulative never decreases,2025 Aluminium 2025-06-10->2025-07-10,71052.0,55712.0,15340.0,yes
+cumulative never decreases,2025 Aluminium 2025-07-10->2025-08-12,85295.0,71052.0,14243.0,yes
+cumulative never decreases,2025 Aluminium 2025-08-12->2025-09-10,95889.0,85295.0,10594.0,yes
+cumulative never decreases,2025 Aluminium 2025-09-10->2025-10-10,110123.0,95889.0,14234.0,yes
+cumulative never decreases,2025 Aluminium 2025-10-10->2025-11-10,124431.0,110123.0,14308.0,yes
+cumulative never decreases,2025 Aluminium 2025-11-10->2025-12-10,137293.0,124431.0,12862.0,yes
+cumulative never decreases,2025 Aluminium 2025-12-10->2026-01-09,147484.0,137293.0,10191.0,yes
+cumulative never decreases,2025 Aluminium 2026-01-09->2026-02-10,150151.0,147484.0,2667.0,yes
+cumulative never decreases,2025 Glass other 2025-02-10->2025-03-10,29717.0,17053.0,12664.0,yes
+cumulative never decreases,2025 Glass other 2025-03-10->2025-04-10,59324.0,29717.0,29607.0,yes
+cumulative never decreases,2025 Glass other 2025-04-10->2025-05-09,77704.0,59324.0,18380.0,yes
+cumulative never decreases,2025 Glass other 2025-05-09->2025-06-10,109596.0,77704.0,31892.0,yes
+cumulative never decreases,2025 Glass other 2025-06-10->2025-07-10,144407.0,109596.0,34811.0,yes
+cumulative never decreases,2025 Glass other 2025-07-10->2025-08-12,195980.0,144407.0,51573.0,yes
+cumulative never decreases,2025 Glass other 2025-08-12->2025-09-10,239604.0,195980.0,43624.0,yes
+cumulative never decreases,2025 Glass other 2025-09-10->2025-10-10,272063.0,239604.0,32459.0,yes
+cumulative never decreases,2025 Glass other 2025-10-10->2025-11-10,305010.0,272063.0,32947.0,yes
+cumulative never decreases,2025 Glass other 2025-11-10->2025-12-10,328908.0,305010.0,23898.0,yes
+cumulative never decreases,2025 Glass other 2025-12-10->2026-01-09,351750.0,328908.0,22842.0,yes
+cumulative never decreases,2025 Glass other 2026-01-09->2026-02-10,361600.0,351750.0,9850.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-02-10->2025-03-10,145537.0,69354.0,76183.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-03-10->2025-04-10,264890.0,145537.0,119353.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-04-10->2025-05-09,351413.0,264890.0,86523.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-05-09->2025-06-10,475878.0,351413.0,124465.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-06-10->2025-07-10,570037.0,475878.0,94159.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-07-10->2025-08-12,705305.0,570037.0,135268.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-08-12->2025-09-10,794663.0,705305.0,89358.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-09-10->2025-10-10,910071.0,794663.0,115408.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-10-10->2025-11-10,1025949.0,910071.0,115878.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-11-10->2025-12-10,1124768.0,1025949.0,98819.0,yes
+cumulative never decreases,2025 Glass re-melt 2025-12-10->2026-01-09,1239339.0,1124768.0,114571.0,yes
+cumulative never decreases,2025 Glass re-melt 2026-01-09->2026-02-10,1269753.0,1239339.0,30414.0,yes
+cumulative never decreases,2025 Paper and board 2025-02-10->2025-03-10,536538.0,183446.0,353092.0,yes
+cumulative never decreases,2025 Paper and board 2025-03-10->2025-04-10,910023.0,536538.0,373485.0,yes
+cumulative never decreases,2025 Paper and board 2025-04-10->2025-05-09,1243964.0,910023.0,333941.0,yes
+cumulative never decreases,2025 Paper and board 2025-05-09->2025-06-10,1464468.0,1243964.0,220504.0,yes
+cumulative never decreases,2025 Paper and board 2025-06-10->2025-07-10,1818992.0,1464468.0,354524.0,yes
+cumulative never decreases,2025 Paper and board 2025-07-10->2025-08-12,2156127.0,1818992.0,337135.0,yes
+cumulative never decreases,2025 Paper and board 2025-08-12->2025-09-10,2436289.0,2156127.0,280162.0,yes
+cumulative never decreases,2025 Paper and board 2025-09-10->2025-10-10,2836381.0,2436289.0,400092.0,yes
+cumulative never decreases,2025 Paper and board 2025-10-10->2025-11-10,3039992.0,2836381.0,203611.0,yes
+cumulative never decreases,2025 Paper and board 2025-11-10->2025-12-10,3432958.0,3039992.0,392966.0,yes
+cumulative never decreases,2025 Paper and board 2025-12-10->2026-01-09,3725256.0,3432958.0,292298.0,yes
+cumulative never decreases,2025 Paper and board 2026-01-09->2026-02-10,3894405.0,3725256.0,169149.0,yes
+cumulative never decreases,2025 Plastic 2025-02-10->2025-03-10,148558.0,59009.0,89549.0,yes
+cumulative never decreases,2025 Plastic 2025-03-10->2025-04-10,262551.0,148558.0,113993.0,yes
+cumulative never decreases,2025 Plastic 2025-04-10->2025-05-09,361407.0,262551.0,98856.0,yes
+cumulative never decreases,2025 Plastic 2025-05-09->2025-06-10,455427.0,361407.0,94020.0,yes
+cumulative never decreases,2025 Plastic 2025-06-10->2025-07-10,561509.0,455427.0,106082.0,yes
+cumulative never decreases,2025 Plastic 2025-07-10->2025-08-12,673259.0,561509.0,111750.0,yes
+cumulative never decreases,2025 Plastic 2025-08-12->2025-09-10,765673.0,673259.0,92414.0,yes
+cumulative never decreases,2025 Plastic 2025-09-10->2025-10-10,883829.0,765673.0,118156.0,yes
+cumulative never decreases,2025 Plastic 2025-10-10->2025-11-10,981802.0,883829.0,97973.0,yes
+cumulative never decreases,2025 Plastic 2025-11-10->2025-12-10,1086706.0,981802.0,104904.0,yes
+cumulative never decreases,2025 Plastic 2025-12-10->2026-01-09,1178182.0,1086706.0,91476.0,yes
+cumulative never decreases,2025 Plastic 2026-01-09->2026-02-10,1206585.0,1178182.0,28403.0,yes
+cumulative never decreases,2025 Steel 2025-02-10->2025-03-10,38635.0,16311.0,22324.0,yes
+cumulative never decreases,2025 Steel 2025-03-10->2025-04-10,83547.0,38635.0,44912.0,yes
+cumulative never decreases,2025 Steel 2025-04-10->2025-05-09,100335.0,83547.0,16788.0,yes
+cumulative never decreases,2025 Steel 2025-05-09->2025-06-10,152304.0,100335.0,51969.0,yes
+cumulative never decreases,2025 Steel 2025-06-10->2025-07-10,188374.0,152304.0,36070.0,yes
+cumulative never decreases,2025 Steel 2025-07-10->2025-08-12,218692.0,188374.0,30318.0,yes
+cumulative never decreases,2025 Steel 2025-08-12->2025-09-10,247126.0,218692.0,28434.0,yes
+cumulative never decreases,2025 Steel 2025-09-10->2025-10-10,266474.0,247126.0,19348.0,yes
+cumulative never decreases,2025 Steel 2025-10-10->2025-11-10,301868.0,266474.0,35394.0,yes
+cumulative never decreases,2025 Steel 2025-11-10->2025-12-10,337950.0,301868.0,36082.0,yes
+cumulative never decreases,2025 Steel 2025-12-10->2026-01-09,352397.0,337950.0,14447.0,yes
+cumulative never decreases,2025 Steel 2026-01-09->2026-02-10,370570.0,352397.0,18173.0,yes
+cumulative never decreases,2025 Wood 2025-02-10->2025-03-10,41452.0,11222.0,30230.0,yes
+cumulative never decreases,2025 Wood 2025-03-10->2025-04-10,79833.0,41452.0,38381.0,yes
+cumulative never decreases,2025 Wood 2025-04-10->2025-05-09,150040.0,79833.0,70207.0,yes
+cumulative never decreases,2025 Wood 2025-05-09->2025-06-10,177991.0,150040.0,27951.0,yes
+cumulative never decreases,2025 Wood 2025-06-10->2025-07-10,229305.0,177991.0,51314.0,yes
+cumulative never decreases,2025 Wood 2025-07-10->2025-08-12,300933.0,229305.0,71628.0,yes
+cumulative never decreases,2025 Wood 2025-08-12->2025-09-10,325469.0,300933.0,24536.0,yes
+cumulative never decreases,2025 Wood 2025-09-10->2025-10-10,360379.0,325469.0,34910.0,yes
+cumulative never decreases,2025 Wood 2025-10-10->2025-11-10,421701.0,360379.0,61322.0,yes
+cumulative never decreases,2025 Wood 2025-11-10->2025-12-10,463428.0,421701.0,41727.0,yes
+cumulative never decreases,2025 Wood 2025-12-10->2026-01-09,507926.0,463428.0,44498.0,yes
+cumulative never decreases,2025 Wood 2026-01-09->2026-02-10,540979.0,507926.0,33053.0,yes
+within 0.1% of quarterly combined total,2023,8202852.0,8203854.11,1002.11,yes
+within 0.1% of quarterly combined total,2024,8156580.0,8153581.61,-2998.39,yes
+within 0.1% of quarterly combined total,2025,7794043.0,7795719.84,1676.84,yes

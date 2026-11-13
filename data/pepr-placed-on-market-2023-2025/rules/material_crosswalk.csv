@@ -1,0 +1,13 @@
+material_canonical,quarterly,monthly_2026,export_flows,prn_revenue,pepr,note
+Aluminium,Aluminium,Aluminium,Aluminium,Aluminium,Aluminium,
+Glass other,Glass Other,Glass-other,Glass Other,Glass Other,,"Recovery side only. pEPR does not split glass, so recovery cannot be divided by placed-on-market tonnage for this stream."
+Glass re-melt,Glass Re-melt,Glass re-melt,Glass Re-melt,Glass Re-melt,,Recovery side only. See Glass other.
+Glass (combined),,,,,Glass,"pEPR side only. Join to the recovery data by summing Glass other and Glass re-melt, which gives a combined glass rate but no per-stream rate."
+Paper and board,Paper/board,Paper and board,Paper/board,Paper/board,Paper / Card,"pEPR calls this Paper / Card. The category boundary is not documented as identical to the recovery data's Paper/board, so a rate across the two carries an unquantified definitional difference."
+Plastic,Plastic,Plastic,Plastic,Plastic,Plastic,
+Plastic (rigid),,,,,Plastic- Rigid,"pEPR recyclability assessment only. The weight sheets report a single Plastic, so rigid and flexible tonnage is available for recyclability but not for supply."
+Plastic (flexible),,,,,Plastic- Flexible,See Plastic (rigid).
+Steel,Steel,Steel,Steel,Steel,Steel,
+Wood,Wood,Wood,Wood,Wood,Wood,
+Fibre composite,,,,,Fibre Composite,"pEPR side only. No counterpart in the recovery data, so no recycling rate can be computed for it."
+Other,,,,,Other,pEPR side only. No counterpart in the recovery data.

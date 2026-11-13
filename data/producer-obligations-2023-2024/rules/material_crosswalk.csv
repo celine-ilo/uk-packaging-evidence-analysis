@@ -1,0 +1,8 @@
+material_canonical,quarterly,obligations,prn_revenue,pepr,note
+Aluminium,Aluminium,Aluminium,Aluminium,Aluminium,
+Glass (combined),,Glass,,Glass,"This dataset reports a single Glass, like pEPR and unlike the recovery datasets, which split re-melt from other."
+Paper and board,Paper/board,Paper,Paper/board,Paper / Card,This dataset calls it simply Paper.
+Plastic,Plastic,Plastic,Plastic,Plastic,
+Steel,Steel,Steel,Steel,Steel,
+Wood,Wood,Wood,Wood,Wood,
+Other,,Other,,Other,No counterpart in the recovery datasets.

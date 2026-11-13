@@ -1,0 +1,377 @@
+registration_year,table,table_title,activity,row_kind,material,value,unit,source_file,material_canonical,unit_kind
+2023,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Paper,1738349.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Glass,2472570.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Aluminium,0.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Steel,329016.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Plastic,837906.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Wood,316145.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Other,27498.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 1,Packaging Supplied,Raw Mat Manufacturing,Stated row total,All,5721484.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity share,All,0.06,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 1,Packaging Supplied,Conversion,Activity,Paper,3032239.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 1,Packaging Supplied,Conversion,Activity,Glass,2473088.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 1,Packaging Supplied,Conversion,Activity,Aluminium,209710.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 1,Packaging Supplied,Conversion,Activity,Steel,223422.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 1,Packaging Supplied,Conversion,Activity,Plastic,1388355.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 1,Packaging Supplied,Conversion,Activity,Wood,470023.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 1,Packaging Supplied,Conversion,Activity,Other,74529.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 1,Packaging Supplied,Conversion,Stated row total,All,7871366.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 1,Packaging Supplied,Conversion,Activity share,All,0.09,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 1,Packaging Supplied,Pack/Filling,Activity,Paper,2686219.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 1,Packaging Supplied,Pack/Filling,Activity,Glass,2221466.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 1,Packaging Supplied,Pack/Filling,Activity,Aluminium,219875.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 1,Packaging Supplied,Pack/Filling,Activity,Steel,335330.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 1,Packaging Supplied,Pack/Filling,Activity,Plastic,1453807.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 1,Packaging Supplied,Pack/Filling,Activity,Wood,759353.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 1,Packaging Supplied,Pack/Filling,Activity,Other,17838.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 1,Packaging Supplied,Pack/Filling,Stated row total,All,7693888.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 1,Packaging Supplied,Pack/Filling,Activity share,All,0.37,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 1,Packaging Supplied,Selling,Activity,Paper,3846647.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 1,Packaging Supplied,Selling,Activity,Glass,2060242.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 1,Packaging Supplied,Selling,Activity,Aluminium,181494.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 1,Packaging Supplied,Selling,Activity,Steel,415976.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 1,Packaging Supplied,Selling,Activity,Plastic,1819268.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 1,Packaging Supplied,Selling,Activity,Wood,819731.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 1,Packaging Supplied,Selling,Activity,Other,15168.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 1,Packaging Supplied,Selling,Stated row total,All,9158526.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 1,Packaging Supplied,Selling,Activity share,All,0.48,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 1,Packaging Supplied,% Activity Totals,Activity total,Paper,3217494.04,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 1,Packaging Supplied,% Activity Totals,Activity total,Glass,2181790.7,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 1,Packaging Supplied,% Activity Totals,Activity total,Aluminium,187344.77,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 1,Packaging Supplied,% Activity Totals,Activity total,Steel,363589.52,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 1,Packaging Supplied,% Activity Totals,Activity total,Plastic,1586383.54,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 1,Packaging Supplied,% Activity Totals,Activity total,Wood,735702.26,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 1,Packaging Supplied,% Activity Totals,Activity total,Other,22238.19,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Paper,290571.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Glass,239653.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Aluminium,0.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Steel,173414.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Plastic,447728.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Wood,56474.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Other,14651.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Stated row total,All,1222491.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity share,All,0.06,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Paper,181081.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Glass,239679.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Aluminium,24286.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Steel,34344.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Plastic,203112.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Wood,67348.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Other,16169.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Stated row total,All,766019.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity share,All,0.09,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Paper,428058.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Glass,839434.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Aluminium,28899.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Steel,91935.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Plastic,178848.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Wood,223196.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Other,6639.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Stated row total,All,1797009.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity share,All,0.37,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Paper,230016.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Glass,14307.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Aluminium,1377.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Steel,39548.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Plastic,70400.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Wood,174216.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Other,823.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Stated row total,All,530687.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity share,All,0.48,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Paper,302520.69,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Glass,353408.23,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Aluminium,13539.33,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Steel,66494.79,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Plastic,145109.52,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Wood,175655.96,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Other,5185.74,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Paper,222979.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Glass,888271.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Aluminium,0.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Steel,43709.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Plastic,46895.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Wood,1726.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Other,0.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Stated row total,All,1203580.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity share,All,0.06,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Paper,494220.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Glass,888762.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Aluminium,7618.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Steel,35041.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Plastic,30475.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Wood,107202.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Other,1776.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Stated row total,All,1565094.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity share,All,0.09,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Paper,32293.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Glass,131131.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Aluminium,3830.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Steel,5114.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Plastic,6861.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Wood,11631.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Other,79.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Stated row total,All,190939.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity share,All,0.37,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Paper,5778.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Glass,287.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Aluminium,14.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Steel,1110.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Plastic,850.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Wood,3722.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Other,26.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Stated row total,All,11787.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity share,All,0.48,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Paper,72580.39,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Glass,181941.07,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Aluminium,2109.44,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Steel,8201.21,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Plastic,8503.02,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Wood,15841.77,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Other,201.55,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Paper,1448408.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Glass,2.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Aluminium,180110.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Steel,38192.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Plastic,789033.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Wood,119529.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Other,17090.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Stated row total,All,2592364.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity share,All,0.06,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Paper,270214.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Glass,154609.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Aluminium,38296.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Steel,89461.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Plastic,349979.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Wood,22523.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Other,4998.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Stated row total,All,930080.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity share,All,0.15,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Paper,1465536.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Glass,1036417.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Aluminium,51326.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Steel,175291.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Plastic,549059.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Wood,235073.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Other,5493.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Stated row total,All,3518195.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity share,All,0.52,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Paper,889515.3,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Glass,562128.31,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Aluminium,43240.52,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Steel,106861.99,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Plastic,385349.51,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Wood,132788.15,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Other,4631.46,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Paper,564903.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Glass,1106.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Aluminium,830.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Steel,35970.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Plastic,78816.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Wood,368454.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Other,888.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Stated row total,All,1050967.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity share,All,1.0,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2023,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Paper,564903.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Glass,1106.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Aluminium,830.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Steel,35970.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Plastic,78816.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Wood,368454.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Other,888.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Paper,304375.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2023,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Glass,72446.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2023,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Aluminium,54910.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2023,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Steel,79294.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2023,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Plastic,211707.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2023,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Wood,146783.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2023,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Other,4480.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2023,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Stated row total,All,873995.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2023,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity share,All,0.0,proportion,2024_03_28_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Paper,1574180.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Glass,2166550.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Aluminium,24.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Steel,316851.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Plastic,504379.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Wood,316354.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity,Other,17462.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 1,Packaging Supplied,Raw Mat Manufacturing,Stated row total,All,4895800.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 1,Packaging Supplied,Raw Mat Manufacturing,Activity share,All,0.06,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 1,Packaging Supplied,Conversion,Activity,Paper,2844955.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 1,Packaging Supplied,Conversion,Activity,Glass,2166945.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 1,Packaging Supplied,Conversion,Activity,Aluminium,191865.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 1,Packaging Supplied,Conversion,Activity,Steel,190506.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 1,Packaging Supplied,Conversion,Activity,Plastic,1323406.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 1,Packaging Supplied,Conversion,Activity,Wood,437342.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 1,Packaging Supplied,Conversion,Activity,Other,59778.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 1,Packaging Supplied,Conversion,Stated row total,All,7214797.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 1,Packaging Supplied,Conversion,Activity share,All,0.09,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 1,Packaging Supplied,Pack/Filling,Activity,Paper,2543669.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 1,Packaging Supplied,Pack/Filling,Activity,Glass,1940980.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 1,Packaging Supplied,Pack/Filling,Activity,Aluminium,238635.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 1,Packaging Supplied,Pack/Filling,Activity,Steel,306229.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 1,Packaging Supplied,Pack/Filling,Activity,Plastic,1402282.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 1,Packaging Supplied,Pack/Filling,Activity,Wood,720814.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 1,Packaging Supplied,Pack/Filling,Activity,Other,17509.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 1,Packaging Supplied,Pack/Filling,Stated row total,All,7170118.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 1,Packaging Supplied,Pack/Filling,Activity share,All,0.37,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 1,Packaging Supplied,Selling,Activity,Paper,3764476.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 1,Packaging Supplied,Selling,Activity,Glass,1969871.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 1,Packaging Supplied,Selling,Activity,Aluminium,184856.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 1,Packaging Supplied,Selling,Activity,Steel,408911.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 1,Packaging Supplied,Selling,Activity,Plastic,1774861.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 1,Packaging Supplied,Selling,Activity,Wood,779714.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 1,Packaging Supplied,Selling,Activity,Other,16203.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 1,Packaging Supplied,Selling,Stated row total,All,8898892.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 1,Packaging Supplied,Selling,Activity share,All,0.48,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 1,Packaging Supplied,% Activity Totals,Activity total,Paper,3098602.76,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 1,Packaging Supplied,% Activity Totals,Activity total,Glass,1988718.73,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 1,Packaging Supplied,% Activity Totals,Activity total,Aluminium,194295.12,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 1,Packaging Supplied,% Activity Totals,Activity total,Steel,345738.61,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 1,Packaging Supplied,% Activity Totals,Activity total,Plastic,1520146.9,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 1,Packaging Supplied,% Activity Totals,Activity total,Wood,699305.92,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 1,Packaging Supplied,% Activity Totals,Activity total,Other,20683.51,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Paper,246091.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Glass,179459.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Aluminium,0.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Steel,167506.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Plastic,146977.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Wood,44336.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity,Other,10713.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Stated row total,All,795082.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Raw Mat Manufacturing,Activity share,All,0.06,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Paper,142667.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Glass,179483.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Aluminium,15225.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Steel,27559.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Plastic,166714.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Wood,58746.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity,Other,9146.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Stated row total,All,599540.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Conversion,Activity share,All,0.09,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Paper,388437.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Glass,783390.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Aluminium,33661.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Steel,72800.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Plastic,169516.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Wood,208736.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity,Other,5368.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Stated row total,All,1661908.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Pack/Filling,Activity share,All,0.37,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Paper,209631.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Glass,15579.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Aluminium,1246.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Steel,34978.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Plastic,63206.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Wood,159289.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity,Other,880.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Stated row total,All,484809.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,Selling,Activity share,All,0.48,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Paper,271950.06,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Glass,324253.23,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Aluminium,14422.9,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Steel,56256.11,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Plastic,116882.68,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Wood,161638.34,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2a,Packaging Exported outside the UK by the Producer,% Activity Totals,Activity total,Other,3874.48,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Paper,226635.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Glass,764737.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Aluminium,0.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Steel,44681.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Plastic,34068.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Wood,429.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity,Other,0.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Stated row total,All,1070550.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Raw Mat Manufacturing,Activity share,All,0.06,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Paper,501387.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Glass,765105.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Aluminium,7469.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Steel,28712.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Plastic,27576.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Wood,107893.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity,Other,1186.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Stated row total,All,1439328.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Conversion,Activity share,All,0.09,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Paper,11887.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Glass,26205.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Aluminium,1010.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Steel,3594.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Plastic,6149.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Wood,9896.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity,Other,45.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Stated row total,All,58786.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Pack/Filling,Activity share,All,0.37,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Paper,5066.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Glass,355.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Aluminium,10.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Steel,512.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Plastic,1592.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Wood,3690.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity,Other,29.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Stated row total,All,11254.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,Selling,Activity share,All,0.48,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Paper,65552.8,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Glass,124609.92,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Aluminium,1050.71,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Steel,6840.48,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Plastic,7565.21,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Wood,15168.83,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 2b,Packaging Exported outside the UK by a Third Party,% Activity Totals,Activity total,Other,137.31,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Paper,1414553.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Glass,1.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Aluminium,165097.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Steel,32171.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Plastic,758517.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Wood,77740.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity,Other,12754.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Stated row total,All,2460833.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Conversion,Activity share,All,0.06,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Paper,261608.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Glass,154126.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Aluminium,43878.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Steel,96394.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Plastic,356334.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Wood,20826.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity,Other,5554.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Stated row total,All,938720.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Pack/Filling,Activity share,All,0.15,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Paper,1433303.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Glass,1012293.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Aluminium,44701.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Steel,160042.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Plastic,520032.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Wood,237838.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity,Other,5784.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Stated row total,All,3413993.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,Imported for Selling,Activity share,All,0.52,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Paper,869431.94,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Glass,549511.32,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Aluminium,39732.04,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Steel,99611.2,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Plastic,369377.76,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Wood,131464.06,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 3a,Packaging Imported into the UK for the purpose of an Activity,% Activity Totals,Activity total,Other,4606.02,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Paper,551260.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Glass,2279.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Aluminium,892.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Steel,32914.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Plastic,84542.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Wood,375521.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity,Other,908.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Stated row total,All,1048316.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,End User Packaging,Activity share,All,1.0,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion
+2024,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Paper,551260.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Glass,2279.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Aluminium,892.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Steel,32914.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Plastic,84542.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Wood,375521.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 3b,Packaging Imported into the UK as an End User,% Activity Totals,Activity total,Other,908.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Paper,250456.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Paper and board,tonnes
+2024,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Glass,69288.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Glass (combined),tonnes
+2024,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Aluminium,46047.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Aluminium,tonnes
+2024,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Steel,80592.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Steel,tonnes
+2024,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Plastic,175108.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Plastic,tonnes
+2024,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Wood,108360.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Wood,tonnes
+2024,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity,Other,3301.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,Other,tonnes
+2024,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Stated row total,All,733152.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,tonnes
+2024,Table 3c,Packaging Imported into the UK which is subsequently Exported,Exported Imports,Activity share,All,0.0,proportion,2025_03_27_Rpt_(PackFlow_Consolidated).xls,All,proportion

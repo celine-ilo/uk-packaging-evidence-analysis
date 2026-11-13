@@ -1,0 +1,8 @@
+material_canonical,quarterly,monthly_2026,export_flows,prn_revenue,pepr,note
+Aluminium,Aluminium,Aluminium,Aluminium,Aluminium,Aluminium,
+Glass other,Glass Other,Glass-other,Glass Other,Glass Other,,"pEPR reports a single Glass category and does not split re-melt from other, so recovery cannot be divided by placed-on-market tonnage for either glass stream."
+Glass re-melt,Glass Re-melt,Glass re-melt,Glass Re-melt,Glass Re-melt,,See Glass other. The split exists only on the recovery side.
+Paper and board,Paper/board,Paper and board,Paper/board,Paper/board,Paper / Card,"pEPR calls this Paper / Card. The category boundary is not documented as identical to the recovery data's Paper/board, so a recycling rate computed across the two carries an unquantified definitional difference."
+Plastic,Plastic,Plastic,Plastic,Plastic,Plastic,
+Steel,Steel,Steel,Steel,Steel,Steel,
+Wood,Wood,Wood,Wood,Wood,Wood,

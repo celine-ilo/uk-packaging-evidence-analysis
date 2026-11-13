@@ -1,0 +1,43 @@
+check,key,computed,stated,difference,passes
+activity materials = stated row total,2023 Table 1 Conversion,7871366.0,7871366.0,0.0,yes
+activity materials = stated row total,2023 Table 1 Pack/Filling,7693888.0,7693888.0,0.0,yes
+activity materials = stated row total,2023 Table 1 Raw Mat Manufacturing,5721484.0,5721484.0,0.0,yes
+activity materials = stated row total,2023 Table 1 Selling,9158526.0,9158526.0,0.0,yes
+activity materials = stated row total,2023 Table 2a Conversion,766019.0,766019.0,0.0,yes
+activity materials = stated row total,2023 Table 2a Pack/Filling,1797009.0,1797009.0,0.0,yes
+activity materials = stated row total,2023 Table 2a Raw Mat Manufacturing,1222491.0,1222491.0,0.0,yes
+activity materials = stated row total,2023 Table 2a Selling,530687.0,530687.0,0.0,yes
+activity materials = stated row total,2023 Table 2b Conversion,1565094.0,1565094.0,0.0,yes
+activity materials = stated row total,2023 Table 2b Pack/Filling,190939.0,190939.0,0.0,yes
+activity materials = stated row total,2023 Table 2b Raw Mat Manufacturing,1203580.0,1203580.0,0.0,yes
+activity materials = stated row total,2023 Table 2b Selling,11787.0,11787.0,0.0,yes
+activity materials = stated row total,2023 Table 3a Imported for Conversion,2592364.0,2592364.0,0.0,yes
+activity materials = stated row total,2023 Table 3a Imported for Pack/Filling,930080.0,930080.0,0.0,yes
+activity materials = stated row total,2023 Table 3a Imported for Selling,3518195.0,3518195.0,0.0,yes
+activity materials = stated row total,2023 Table 3b End User Packaging,1050967.0,1050967.0,0.0,yes
+activity materials = stated row total,2023 Table 3c Exported Imports,873995.0,873995.0,0.0,yes
+activity materials = stated row total,2024 Table 1 Conversion,7214797.0,7214797.0,0.0,yes
+activity materials = stated row total,2024 Table 1 Pack/Filling,7170118.0,7170118.0,0.0,yes
+activity materials = stated row total,2024 Table 1 Raw Mat Manufacturing,4895800.0,4895800.0,0.0,yes
+activity materials = stated row total,2024 Table 1 Selling,8898892.0,8898892.0,0.0,yes
+activity materials = stated row total,2024 Table 2a Conversion,599540.0,599540.0,0.0,yes
+activity materials = stated row total,2024 Table 2a Pack/Filling,1661908.0,1661908.0,0.0,yes
+activity materials = stated row total,2024 Table 2a Raw Mat Manufacturing,795082.0,795082.0,0.0,yes
+activity materials = stated row total,2024 Table 2a Selling,484809.0,484809.0,0.0,yes
+activity materials = stated row total,2024 Table 2b Conversion,1439328.0,1439328.0,0.0,yes
+activity materials = stated row total,2024 Table 2b Pack/Filling,58786.0,58786.0,0.0,yes
+activity materials = stated row total,2024 Table 2b Raw Mat Manufacturing,1070550.0,1070550.0,0.0,yes
+activity materials = stated row total,2024 Table 2b Selling,11254.0,11254.0,0.0,yes
+activity materials = stated row total,2024 Table 3a Imported for Conversion,2460833.0,2460833.0,0.0,yes
+activity materials = stated row total,2024 Table 3a Imported for Pack/Filling,938720.0,938720.0,0.0,yes
+activity materials = stated row total,2024 Table 3a Imported for Selling,3413993.0,3413993.0,0.0,yes
+activity materials = stated row total,2024 Table 3b End User Packaging,1048316.0,1048316.0,0.0,yes
+activity materials = stated row total,2024 Table 3c Exported Imports,733152.0,733152.0,0.0,yes
+obligation total = its materials,2023 Allocation producers,31998.0,31998.0,0.0,yes
+obligation total = its materials,2023 Non allocation producers,7425763.0,7425763.0,0.0,yes
+obligation total = its materials,2024 Allocation producers,27086.0,27086.0,0.0,yes
+obligation total = its materials,2024 Non allocation producers,7259354.0,7259354.0,0.0,yes
+total = general + material specific,2023,7939063.0,7939063.0,0.0,yes
+total = general + material specific,2024,7901506.0,7901506.0,0.0,yes
+Table 1 activity shares sum to 1,2023,1.0,1.0,0.0,yes
+Table 1 activity shares sum to 1,2024,1.0,1.0,0.0,yes

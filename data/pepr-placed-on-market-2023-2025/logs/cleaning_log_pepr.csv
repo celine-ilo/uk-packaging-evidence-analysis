@@ -1,0 +1,24 @@
+rule_id,source_column,match_type,find,target_column,replace,category,rows_affected
+P001,*,trim,,*,,1-error-fix,0
+P002,period,derive,,period,,1-error-fix,0
+P003,extraction_date,derive,,extraction_date,,1-error-fix,0
+P004,material,exact,Aluminium,material_canonical,Aluminium,1-error-fix,128
+P005,material,exact,Glass,material_canonical,Glass (combined),1-error-fix,130
+P006,material,exact,Paper / Card,material_canonical,Paper and board,1-error-fix,128
+P007,material,exact,Plastic,material_canonical,Plastic,1-error-fix,107
+P008,material,exact,Plastic- Rigid,material_canonical,Plastic (rigid),1-error-fix,21
+P009,material,exact,Plastic- Flexible,material_canonical,Plastic (flexible),1-error-fix,21
+P010,material,exact,Steel,material_canonical,Steel,1-error-fix,128
+P011,material,exact,Wood,material_canonical,Wood,1-error-fix,128
+P012,material,exact,Fibre Composite,material_canonical,Fibre composite,1-error-fix,128
+P013,material,exact,Other,material_canonical,Other,1-error-fix,126
+P014,unit,exact,tonnes,unit_kind,tonnes,2-standardise,877
+P015,unit,exact,units,unit_kind,units,2-standardise,160
+P016,unit,exact,proportion,unit_kind,proportion,2-standardise,8
+P017,period,note,,period,,3-reported-not-fixed,0
+P018,material,note,Glass,material,,3-reported-not-fixed,0
+P019,producer_size,note,Small producer,producer_size,,3-reported-not-fixed,0
+P020,recyclability_rating,note,,recyclability_rating,,3-reported-not-fixed,0
+P021,value,note,Total Supplied,value,,3-reported-not-fixed,0
+P022,producer_size,note,Large producer,producer_size,,3-reported-not-fixed,0
+P023,measure,note,UK total recycling obligation,measure,,3-reported-not-fixed,0

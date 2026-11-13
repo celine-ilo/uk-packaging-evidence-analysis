@@ -1,0 +1,71 @@
+registration_year,line,material,value,unit,source_file
+2023,Total packaging handled,Paper,3217494.04,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total packaging handled,Glass,2181790.7,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total packaging handled,Aluminium,187344.77,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total packaging handled,Steel,363589.52,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total packaging handled,Plastic,1586383.54,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total packaging handled,Wood,735702.26,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total packaging handled,Other,22238.19,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Imported,Paper,889515.3,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Imported,Glass,562128.31,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Imported,Aluminium,43240.52,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Imported,Steel,106861.99,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Imported,Plastic,385349.51,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Imported,Wood,132788.15,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Imported,Other,4631.46,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Imported Transit Packaging,Paper,564903.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Imported Transit Packaging,Glass,1106.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Imported Transit Packaging,Aluminium,830.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Imported Transit Packaging,Steel,35970.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Imported Transit Packaging,Plastic,78816.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Imported Transit Packaging,Wood,368454.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Imported Transit Packaging,Other,888.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Exported,Paper,375101.08,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Exported,Glass,535349.3,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Exported,Aluminium,15648.77,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Exported,Steel,74696.0,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Exported,Plastic,153612.54,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Exported,Wood,191497.73,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Packaging/Packaging Materials Exported,Other,5387.29,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total*,Paper,4296811.26,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total*,Glass,2209675.71,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total*,Aluminium,215766.52,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total*,Steel,431725.51,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total*,Plastic,1896936.51,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total*,Wood,1045446.68,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2023,Total*,Other,22370.36,tonnes,2024_03_28_Rpt_(PackFlow_Consolidated).xls
+2024,Total packaging handled,Paper,3098602.76,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total packaging handled,Glass,1988718.73,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total packaging handled,Aluminium,194295.12,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total packaging handled,Steel,345738.61,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total packaging handled,Plastic,1520146.9,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total packaging handled,Wood,699305.92,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total packaging handled,Other,20683.51,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Imported,Paper,869431.94,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Imported,Glass,549511.32,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Imported,Aluminium,39732.04,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Imported,Steel,99611.2,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Imported,Plastic,369377.76,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Imported,Wood,131464.06,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Imported,Other,4606.02,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Imported Transit Packaging,Paper,551260.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Imported Transit Packaging,Glass,2279.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Imported Transit Packaging,Aluminium,892.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Imported Transit Packaging,Steel,32914.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Imported Transit Packaging,Plastic,84542.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Imported Transit Packaging,Wood,375521.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Imported Transit Packaging,Other,908.0,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Exported,Paper,337502.86,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Exported,Glass,448863.15,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Exported,Aluminium,15473.61,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Exported,Steel,63096.59,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Exported,Plastic,124447.89,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Exported,Wood,176807.17,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Packaging/Packaging Materials Exported,Other,4011.79,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total*,Paper,4181791.84,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total*,Glass,2091645.9,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total*,Aluminium,219445.55,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total*,Steel,415167.22,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total*,Plastic,1849618.77,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total*,Wood,1029483.81,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls
+2024,Total*,Other,22185.74,tonnes,2025_03_27_Rpt_(PackFlow_Consolidated).xls

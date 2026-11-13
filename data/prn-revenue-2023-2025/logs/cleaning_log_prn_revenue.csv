@@ -1,0 +1,15 @@
+rule_id,source_column,match_type,find,target_column,replace,category,rows_affected
+V001,*,trim,,*,,1-error-fix,0
+V002,material,exact,Paper/board,material_canonical,Paper and board,1-error-fix,18
+V003,material,exact,Paper/Board,material_canonical,Paper and board,1-error-fix,18
+V004,material,exact,Aluminium,material_canonical,Aluminium,1-error-fix,36
+V005,material,exact,Glass Other,material_canonical,Glass other,1-error-fix,18
+V006,material,exact,Glass Re-melt,material_canonical,Glass re-melt,1-error-fix,36
+V007,material,exact,Plastic,material_canonical,Plastic,1-error-fix,36
+V008,material,exact,Steel,material_canonical,Steel,1-error-fix,36
+V009,material,exact,Wood,material_canonical,Wood,1-error-fix,18
+V010,unit,exact,GBP,unit_kind,GBP,2-standardise,216
+V011,accreditation_type,note,Exp & Rep,accreditation_type,,3-reported-not-fixed,0
+V012,source_file,note,26_03_25_Rpt_(2025_PRN_Revenue_Report).xlsx,source_file,,3-reported-not-fixed,0
+V013,compliance_year,note,,compliance_year,,3-reported-not-fixed,0
+V014,value,note,,value,,3-reported-not-fixed,0

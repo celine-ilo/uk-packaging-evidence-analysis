@@ -1,0 +1,169 @@
+year,material,measure,tonnes,source_file,material_canonical
+2023,Paper/board,ePRNs accepted into the year,3728265.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Paper and board
+2023,Paper/board,ePRNs not accepted (excluding December waste),164.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Paper and board
+2023,Paper/board,ePRNs not accepted (December waste only),2390.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Paper and board
+2023,Paper/board,ePRNs accepted into the following year,244510.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Paper and board
+2023,Paper/board,Total ePRNs issued,3975329.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Paper and board
+2023,Paper/board,Total UK waste,3980214.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Paper and board
+2023,Paper/board,UK waste surplus,4885.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Paper and board
+2023,Paper/board,Awaiting cancellation,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Paper and board
+2023,Glass Other,ePRNs accepted into the year,445824.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass other
+2023,Glass Other,ePRNs not accepted (excluding December waste),328.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass other
+2023,Glass Other,ePRNs not accepted (December waste only),0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass other
+2023,Glass Other,ePRNs accepted into the following year,2755.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass other
+2023,Glass Other,Total ePRNs issued,448907.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass other
+2023,Glass Other,Total UK waste,450972.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass other
+2023,Glass Other,UK waste surplus,2065.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass other
+2023,Glass Other,Awaiting cancellation,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass other
+2023,Glass Re-melt,ePRNs accepted into the year,1324696.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass re-melt
+2023,Glass Re-melt,ePRNs not accepted (excluding December waste),0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass re-melt
+2023,Glass Re-melt,ePRNs not accepted (December waste only),0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass re-melt
+2023,Glass Re-melt,ePRNs accepted into the following year,42408.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass re-melt
+2023,Glass Re-melt,Total ePRNs issued,1367104.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass re-melt
+2023,Glass Re-melt,Total UK waste,1367130.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass re-melt
+2023,Glass Re-melt,UK waste surplus,26.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass re-melt
+2023,Glass Re-melt,Awaiting cancellation,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Glass re-melt
+2023,Aluminium,ePRNs accepted into the year,152036.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Aluminium
+2023,Aluminium,ePRNs not accepted (excluding December waste),0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Aluminium
+2023,Aluminium,ePRNs not accepted (December waste only),777.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Aluminium
+2023,Aluminium,ePRNs accepted into the following year,6733.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Aluminium
+2023,Aluminium,Total ePRNs issued,159546.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Aluminium
+2023,Aluminium,Total UK waste,162357.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Aluminium
+2023,Aluminium,UK waste surplus,2811.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Aluminium
+2023,Aluminium,Awaiting cancellation,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Aluminium
+2023,Steel,ePRNs accepted into the year,358578.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Steel
+2023,Steel,ePRNs not accepted (excluding December waste),0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Steel
+2023,Steel,ePRNs not accepted (December waste only),8279.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Steel
+2023,Steel,ePRNs accepted into the following year,18857.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Steel
+2023,Steel,Total ePRNs issued,385714.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Steel
+2023,Steel,Total UK waste,389100.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Steel
+2023,Steel,UK waste surplus,3386.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Steel
+2023,Steel,Awaiting cancellation,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Steel
+2023,Plastic,ePRNs accepted into the year,1146503.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Plastic
+2023,Plastic,ePRNs not accepted (excluding December waste),0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Plastic
+2023,Plastic,ePRNs not accepted (December waste only),1444.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Plastic
+2023,Plastic,ePRNs accepted into the following year,33940.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Plastic
+2023,Plastic,Total ePRNs issued,1181887.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Plastic
+2023,Plastic,Total UK waste,1186453.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Plastic
+2023,Plastic,UK waste surplus,4566.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Plastic
+2023,Plastic,Awaiting cancellation,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Plastic
+2023,Wood,ePRNs accepted into the year,635214.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Wood
+2023,Wood,ePRNs not accepted (excluding December waste),30.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Wood
+2023,Wood,ePRNs not accepted (December waste only),1371.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Wood
+2023,Wood,ePRNs accepted into the following year,27647.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Wood
+2023,Wood,Total ePRNs issued,664262.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Wood
+2023,Wood,Total UK waste,667627.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Wood
+2023,Wood,UK waste surplus,3365.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Wood
+2023,Wood,Awaiting cancellation,0.0,24_04_23_Rpt_(2023_Q4_Recycling_Summary).xls,Wood
+2024,Paper/board,ePRNs accepted into the year,3694103.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Paper and board
+2024,Paper/board,ePRNs not accepted (excluding December waste),9281.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Paper and board
+2024,Paper/board,ePRNs not accepted (December waste only),140606.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Paper and board
+2024,Paper/board,ePRNs accepted into the following year,186484.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Paper and board
+2024,Paper/board,Total ePRNs issued,4030474.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Paper and board
+2024,Paper/board,Total UK waste,4068861.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Paper and board
+2024,Paper/board,UK waste surplus,38387.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Paper and board
+2024,Paper/board,Awaiting cancellation,250.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Paper and board
+2024,Glass Other,ePRNs accepted into the year,413080.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass other
+2024,Glass Other,ePRNs not accepted (excluding December waste),0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass other
+2024,Glass Other,ePRNs not accepted (December waste only),1849.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass other
+2024,Glass Other,ePRNs accepted into the following year,12111.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass other
+2024,Glass Other,Total ePRNs issued,427040.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass other
+2024,Glass Other,Total UK waste,427883.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass other
+2024,Glass Other,UK waste surplus,843.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass other
+2024,Glass Other,Awaiting cancellation,400.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass other
+2024,Glass Re-melt,ePRNs accepted into the year,1260881.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass re-melt
+2024,Glass Re-melt,ePRNs not accepted (excluding December waste),1.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass re-melt
+2024,Glass Re-melt,ePRNs not accepted (December waste only),28600.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass re-melt
+2024,Glass Re-melt,ePRNs accepted into the following year,41961.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass re-melt
+2024,Glass Re-melt,Total ePRNs issued,1331443.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass re-melt
+2024,Glass Re-melt,Total UK waste,1331522.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass re-melt
+2024,Glass Re-melt,UK waste surplus,79.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass re-melt
+2024,Glass Re-melt,Awaiting cancellation,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Glass re-melt
+2024,Aluminium,ePRNs accepted into the year,143988.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Aluminium
+2024,Aluminium,ePRNs not accepted (excluding December waste),173.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Aluminium
+2024,Aluminium,ePRNs not accepted (December waste only),4035.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Aluminium
+2024,Aluminium,ePRNs accepted into the following year,3595.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Aluminium
+2024,Aluminium,Total ePRNs issued,151791.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Aluminium
+2024,Aluminium,Total UK waste,157049.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Aluminium
+2024,Aluminium,UK waste surplus,5258.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Aluminium
+2024,Aluminium,Awaiting cancellation,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Aluminium
+2024,Steel,ePRNs accepted into the year,335141.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Steel
+2024,Steel,ePRNs not accepted (excluding December waste),24.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Steel
+2024,Steel,ePRNs not accepted (December waste only),17110.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Steel
+2024,Steel,ePRNs accepted into the following year,19767.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Steel
+2024,Steel,Total ePRNs issued,372042.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Steel
+2024,Steel,Total UK waste,379427.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Steel
+2024,Steel,UK waste surplus,7385.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Steel
+2024,Steel,Awaiting cancellation,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Steel
+2024,Plastic,ePRNs accepted into the year,1095065.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Plastic
+2024,Plastic,ePRNs not accepted (excluding December waste),728.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Plastic
+2024,Plastic,ePRNs not accepted (December waste only),25237.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Plastic
+2024,Plastic,ePRNs accepted into the following year,24968.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Plastic
+2024,Plastic,Total ePRNs issued,1145998.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Plastic
+2024,Plastic,Total UK waste,1154385.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Plastic
+2024,Plastic,UK waste surplus,8387.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Plastic
+2024,Plastic,Awaiting cancellation,43.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Plastic
+2024,Wood,ePRNs accepted into the year,575764.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Wood
+2024,Wood,ePRNs not accepted (excluding December waste),516.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Wood
+2024,Wood,ePRNs not accepted (December waste only),18198.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Wood
+2024,Wood,ePRNs accepted into the following year,18998.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Wood
+2024,Wood,Total ePRNs issued,613476.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Wood
+2024,Wood,Total UK waste,634454.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Wood
+2024,Wood,UK waste surplus,20978.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Wood
+2024,Wood,Awaiting cancellation,0.0,25_03_27_Rpt_(2024_Q4_Recycling_Summary).xls,Wood
+2025,Paper/board,ePRNs accepted into the year,3309222.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Paper and board
+2025,Paper/board,ePRNs not accepted (excluding December waste),572.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Paper and board
+2025,Paper/board,ePRNs not accepted (December waste only),50.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Paper and board
+2025,Paper/board,ePRNs accepted into the following year,366336.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Paper and board
+2025,Paper/board,Total ePRNs issued,3676180.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Paper and board
+2025,Paper/board,Total UK waste,3895317.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Paper and board
+2025,Paper/board,UK waste surplus,219137.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Paper and board
+2025,Paper/board,Awaiting cancellation,1971.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Paper and board
+2025,Glass Other,ePRNs accepted into the year,341809.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass other
+2025,Glass Other,ePRNs not accepted (excluding December waste),0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass other
+2025,Glass Other,ePRNs not accepted (December waste only),0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass other
+2025,Glass Other,ePRNs accepted into the following year,9937.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass other
+2025,Glass Other,Total ePRNs issued,351746.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass other
+2025,Glass Other,Total UK waste,361600.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass other
+2025,Glass Other,UK waste surplus,9854.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass other
+2025,Glass Other,Awaiting cancellation,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass other
+2025,Glass Re-melt,ePRNs accepted into the year,1201371.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass re-melt
+2025,Glass Re-melt,ePRNs not accepted (excluding December waste),0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass re-melt
+2025,Glass Re-melt,ePRNs not accepted (December waste only),0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass re-melt
+2025,Glass Re-melt,ePRNs accepted into the following year,66675.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass re-melt
+2025,Glass Re-melt,Total ePRNs issued,1268046.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass re-melt
+2025,Glass Re-melt,Total UK waste,1269753.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass re-melt
+2025,Glass Re-melt,UK waste surplus,1707.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass re-melt
+2025,Glass Re-melt,Awaiting cancellation,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Glass re-melt
+2025,Aluminium,ePRNs accepted into the year,137464.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Aluminium
+2025,Aluminium,ePRNs not accepted (excluding December waste),599.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Aluminium
+2025,Aluminium,ePRNs not accepted (December waste only),0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Aluminium
+2025,Aluminium,ePRNs accepted into the following year,8290.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Aluminium
+2025,Aluminium,Total ePRNs issued,146353.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Aluminium
+2025,Aluminium,Total UK waste,150684.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Aluminium
+2025,Aluminium,UK waste surplus,4331.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Aluminium
+2025,Aluminium,Awaiting cancellation,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Aluminium
+2025,Steel,ePRNs accepted into the year,320398.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Steel
+2025,Steel,ePRNs not accepted (excluding December waste),1593.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Steel
+2025,Steel,ePRNs not accepted (December waste only),0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Steel
+2025,Steel,ePRNs accepted into the following year,22977.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Steel
+2025,Steel,Total ePRNs issued,344968.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Steel
+2025,Steel,Total UK waste,370570.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Steel
+2025,Steel,UK waste surplus,25602.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Steel
+2025,Steel,Awaiting cancellation,0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Steel
+2025,Plastic,ePRNs accepted into the year,1129841.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Plastic
+2025,Plastic,ePRNs not accepted (excluding December waste),193.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Plastic
+2025,Plastic,ePRNs not accepted (December waste only),18.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Plastic
+2025,Plastic,ePRNs accepted into the following year,73227.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Plastic
+2025,Plastic,Total ePRNs issued,1203279.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Plastic
+2025,Plastic,Total UK waste,1206817.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Plastic
+2025,Plastic,UK waste surplus,3538.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Plastic
+2025,Plastic,Awaiting cancellation,17.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Plastic
+2025,Wood,ePRNs accepted into the year,513559.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Wood
+2025,Wood,ePRNs not accepted (excluding December waste),0.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Wood
+2025,Wood,ePRNs not accepted (December waste only),34.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Wood
+2025,Wood,ePRNs accepted into the following year,25171.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Wood
+2025,Wood,Total ePRNs issued,538764.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Wood
+2025,Wood,Total UK waste,540979.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Wood
+2025,Wood,UK waste surplus,2215.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Wood
+2025,Wood,Awaiting cancellation,47.0,26_03_30_Rpt_(2025_Q4_Recycling_Summary).xls,Wood
