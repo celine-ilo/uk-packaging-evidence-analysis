@@ -133,7 +133,7 @@ See `LICENSE` for the full statement.
 
 **To cite this work:**
 
-> Ilo, C.O. (2026) *UK Packaging Recovery Evidence, 2023 to 2026: What the
+> Ilo, C. (2026) *UK Packaging Recovery Evidence, 2023 to 2026: What the
 > published data shows, and what it cannot.* Nova Cyclos.
 
 A `CITATION.cff` file is included, so GitHub will generate a formatted

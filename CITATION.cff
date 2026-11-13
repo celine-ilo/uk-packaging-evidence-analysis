@@ -17,7 +17,7 @@ abstract: >-
   plastic export.
 authors:
   - family-names: Ilo
-    given-names: Celine Ozioma
+    given-names: Celine
     affiliation: Nova Cyclos
     # orcid: "https://orcid.org/0000-0000-0000-0000"   <- add yours here
 type: dataset
