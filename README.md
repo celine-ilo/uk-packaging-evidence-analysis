@@ -1,5 +1,8 @@
 # UK Packaging Recovery Evidence, 2023 to 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24207742.svg)](https://doi.org/10.5281/zenodo.24207742)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 **What the published data shows about packaging recycling in the UK, and what it cannot.**
 
 Seven public datasets, cleaned and validated from scratch, turned into seven figures and a report.
@@ -135,6 +138,7 @@ See `LICENSE` for the full statement.
 
 > Ilo, C. (2026) *UK Packaging Recovery Evidence, 2023 to 2026: What the
 > published data shows, and what it cannot.* Nova Cyclos.
+> https://doi.org/10.5281/zenodo.24207742
 
 A `CITATION.cff` file is included, so GitHub will generate a formatted
 citation from the "Cite this repository" button on the repository page.
